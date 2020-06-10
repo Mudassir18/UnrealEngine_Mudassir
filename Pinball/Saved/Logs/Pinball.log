@@ -746,3 +746,26 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.06.10-15.16.14:407][859]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Pinball_BuiltData.Pinball_BuiltData
 [2020.06.10-15.16.15:804][951]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
 [2020.06.10-15.16.32:615][955]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.06.10-15.23.30:482][ 62]LogSlate: Window 'New Level' being destroyed
+[2020.06.10-15.23.35:613][419]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2020.06.10-15.23.35:617][419]Cmd: MAP LOAD FILE="../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Content/Pinball.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.06.10-15.23.35:669][419]LightingResults: New page: Lighting Build
+[2020.06.10-15.23.35:669][419]LoadErrors: New page: Loading map: Pinball.umap
+[2020.06.10-15.23.35:671][419]LogWorld: UWorld::CleanupWorld for Pinball, bSessionEnded=true, bCleanupResources=true
+[2020.06.10-15.23.35:672][419]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.10-15.23.35:672][419]MapCheck: New page: Map Check
+[2020.06.10-15.23.35:672][419]LightingResults: New page: Lighting Build
+[2020.06.10-15.23.35:693][419]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000116DDD22FC0), frame # 31419
+[2020.06.10-15.23.35:693][419]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000116D51FCA00), frame # 31419
+[2020.06.10-15.23.35:695][419]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2020.06.10-15.23.35:751][419]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2020.06.10-15.23.35:773][419]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2020.06.10-15.23.35:791][419]LogAIModule: Creating AISystem for world Pinball
+[2020.06.10-15.23.35:792][419]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000116D506D600), frame # 31419
+[2020.06.10-15.23.35:792][419]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000116D4DA5300), frame # 31419
+[2020.06.10-15.23.35:807][419]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.06.10-15.23.35:830][419]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2020.06.10-15.23.35:871][419]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.06.10-15.23.35:872][419]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.199ms to complete.
+[2020.06.10-15.23.35:872][419]LogFileHelpers: Loading map 'Pinball' took 0.254
+[2020.06.10-15.23.35:872][419]LogSlate: Window 'Open Level' being destroyed

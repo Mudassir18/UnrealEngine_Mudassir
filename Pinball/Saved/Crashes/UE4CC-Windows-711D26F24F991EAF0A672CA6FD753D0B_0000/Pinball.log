@@ -1,0 +1,1374 @@
+﻿Log file open, 07/01/20 18:15:04
+LogInit: Display: Running engine for game: Pinball
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.639650
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +5:30, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-13144385
+LogInit: Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz, GPU: Intel(R) UHD Graphics 620
+LogInit: Compiled (64-bit): May  2 2020 02:12:11
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.07.01-12.45.05:172][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.07.01-12.45.05:172][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.07.01-12.45.05:172][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Saved/Config/Windows/Engine.ini]
+[2020.07.01-12.45.05:172][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.07.01-12.45.05:172][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Saved/Config/Windows/Engine.ini]
+[2020.07.01-12.45.05:172][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Saved/Config/Windows/Engine.ini]
+[2020.07.01-12.45.05:172][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.07.01-12.45.05:172][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.07.01-12.45.05:172][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.07.01-12.45.05:172][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.07.01-12.45.05:172][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.07.01-12.45.05:172][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.07.01-12.45.05:172][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.07.01-12.45.05:172][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.07.01-12.45.05:172][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.07.01-12.45.05:172][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.07.01-12.45.05:172][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.07.01-12.45.05:173][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.07.01-12.45.05:173][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.07.01-12.45.05:173][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.07.01-12.45.05:173][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Saved/Config/Windows/Engine.ini]
+[2020.07.01-12.45.05:173][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.07.01-12.45.05:173][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.07.01-12.45.05:173][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.07.01-12.45.05:173][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.07.01-12.45.05:173][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.07.01-12.45.05:173][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.07.01-12.45.05:173][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.07.01-12.45.05:173][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.07.01-12.45.05:173][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.07.01-12.45.05:173][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.07.01-12.45.05:173][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.07.01-12.45.05:173][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.07.01-12.45.05:173][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.07.01-12.45.05:173][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Saved/Config/Windows/Engine.ini]
+[2020.07.01-12.45.05:173][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Saved/Config/Windows/Engine.ini]
+[2020.07.01-12.45.05:180][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Saved/Config/Windows/Scalability.ini]
+[2020.07.01-12.45.05:180][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.07.01-12.45.05:180][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.07.01-12.45.05:180][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Saved/Config/Windows/Scalability.ini]
+[2020.07.01-12.45.05:180][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.07.01-12.45.05:180][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Saved/Config/Windows/Scalability.ini]
+[2020.07.01-12.45.05:181][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.07.01-12.45.05:181][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.07.01-12.45.05:181][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.07.01-12.45.05:181][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.07.01-12.45.05:181][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.07.01-12.45.05:181][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.07.01-12.45.05:181][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.07.01-12.45.05:181][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.07.01-12.45.05:181][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.07.01-12.45.05:181][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.07.01-12.45.05:181][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.07.01-12.45.05:181][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.07.01-12.45.05:181][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.07.01-12.45.05:181][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.07.01-12.45.05:181][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.07.01-12.45.05:181][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.07.01-12.45.05:181][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.07.01-12.45.05:181][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.07.01-12.45.05:181][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Saved/Config/Windows/Scalability.ini]
+[2020.07.01-12.45.05:182][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.07.01-12.45.05:182][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.07.01-12.45.05:182][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.07.01-12.45.05:182][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.07.01-12.45.05:182][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.07.01-12.45.05:182][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.07.01-12.45.05:182][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.07.01-12.45.05:182][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.07.01-12.45.05:182][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.07.01-12.45.05:182][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.07.01-12.45.05:182][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.07.01-12.45.05:182][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.07.01-12.45.05:182][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.07.01-12.45.05:182][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.07.01-12.45.05:182][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.07.01-12.45.05:182][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.07.01-12.45.05:182][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.07.01-12.45.05:182][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.07.01-12.45.05:182][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.07.01-12.45.05:182][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.07.01-12.45.05:182][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.07.01-12.45.05:182][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.07.01-12.45.05:182][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.07.01-12.45.05:182][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.07.01-12.45.05:182][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.07.01-12.45.05:183][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.07.01-12.45.05:183][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.07.01-12.45.05:183][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.07.01-12.45.05:183][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.07.01-12.45.05:183][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.07.01-12.45.05:183][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Saved/Config/Windows/Scalability.ini]
+[2020.07.01-12.45.05:183][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.07.01-12.45.05:183][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.07.01-12.45.05:183][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.07.01-12.45.05:183][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.07.01-12.45.05:183][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.07.01-12.45.05:183][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.07.01-12.45.05:183][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.07.01-12.45.05:183][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.07.01-12.45.05:183][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.07.01-12.45.05:183][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Saved/Config/Windows/Scalability.ini]
+[2020.07.01-12.45.05:183][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.07.01-12.45.05:183][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.07.01-12.45.05:183][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.07.01-12.45.05:183][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.07.01-12.45.05:183][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.07.01-12.45.05:183][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.07.01-12.45.05:183][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.07.01-12.45.05:183][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.07.01-12.45.05:183][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.07.01-12.45.05:183][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.07.01-12.45.05:183][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.07.01-12.45.05:183][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.07.01-12.45.05:183][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.07.01-12.45.05:183][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.07.01-12.45.05:183][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.07.01-12.45.05:183][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.07.01-12.45.05:183][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.07.01-12.45.05:183][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.07.01-12.45.05:183][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.07.01-12.45.05:183][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.07.01-12.45.05:183][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.07.01-12.45.05:184][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.07.01-12.45.05:184][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.07.01-12.45.05:184][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.07.01-12.45.05:184][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.07.01-12.45.05:184][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.07.01-12.45.05:184][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Saved/Config/Windows/Scalability.ini]
+[2020.07.01-12.45.05:184][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.07.01-12.45.05:184][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.07.01-12.45.05:184][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Saved/Config/Windows/Scalability.ini]
+[2020.07.01-12.45.05:184][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.07.01-12.45.05:184][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.07.01-12.45.05:184][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.07.01-12.45.05:184][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.07.01-12.45.05:184][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.07.01-12.45.05:184][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.07.01-12.45.05:184][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.07.01-12.45.05:184][  0]LogInit: Selected Device Profile: [Windows]
+[2020.07.01-12.45.05:184][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.07.01-12.45.05:184][  0]LogHAL: Display: Platform has ~ 8 GB [8494747648 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.07.01-12.45.05:184][  0]LogInit: Going up to parent DeviceProfile []
+[2020.07.01-12.45.05:184][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Saved/Config/Windows/Scalability.ini]
+[2020.07.01-12.45.05:184][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.07.01-12.45.05:184][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.07.01-12.45.05:184][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Saved/Config/Windows/Scalability.ini]
+[2020.07.01-12.45.05:184][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.07.01-12.45.05:184][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Saved/Config/Windows/Scalability.ini]
+[2020.07.01-12.45.05:184][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.07.01-12.45.05:184][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.07.01-12.45.05:184][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.07.01-12.45.05:184][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.07.01-12.45.05:184][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.07.01-12.45.05:184][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.07.01-12.45.05:184][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.07.01-12.45.05:184][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.07.01-12.45.05:184][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.07.01-12.45.05:185][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.07.01-12.45.05:185][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.07.01-12.45.05:185][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.07.01-12.45.05:185][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.07.01-12.45.05:185][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.07.01-12.45.05:185][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.07.01-12.45.05:185][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.07.01-12.45.05:185][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.07.01-12.45.05:185][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.07.01-12.45.05:185][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Saved/Config/Windows/Scalability.ini]
+[2020.07.01-12.45.05:185][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.07.01-12.45.05:185][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.07.01-12.45.05:185][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.07.01-12.45.05:185][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.07.01-12.45.05:185][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.07.01-12.45.05:185][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.07.01-12.45.05:185][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.07.01-12.45.05:185][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.07.01-12.45.05:185][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.07.01-12.45.05:185][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.07.01-12.45.05:185][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.07.01-12.45.05:185][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.07.01-12.45.05:185][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.07.01-12.45.05:185][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.07.01-12.45.05:185][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.07.01-12.45.05:185][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.07.01-12.45.05:185][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.07.01-12.45.05:185][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.07.01-12.45.05:185][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.07.01-12.45.05:185][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.07.01-12.45.05:185][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.07.01-12.45.05:185][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.07.01-12.45.05:185][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.07.01-12.45.05:185][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.07.01-12.45.05:185][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.07.01-12.45.05:185][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.07.01-12.45.05:185][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.07.01-12.45.05:185][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.07.01-12.45.05:186][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.07.01-12.45.05:186][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.07.01-12.45.05:186][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Saved/Config/Windows/Scalability.ini]
+[2020.07.01-12.45.05:186][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.07.01-12.45.05:186][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.07.01-12.45.05:186][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.07.01-12.45.05:186][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.07.01-12.45.05:186][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.07.01-12.45.05:186][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.07.01-12.45.05:186][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.07.01-12.45.05:186][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.07.01-12.45.05:186][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.07.01-12.45.05:186][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Saved/Config/Windows/Scalability.ini]
+[2020.07.01-12.45.05:186][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.07.01-12.45.05:186][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.07.01-12.45.05:186][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.07.01-12.45.05:186][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.07.01-12.45.05:186][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.07.01-12.45.05:186][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.07.01-12.45.05:186][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.07.01-12.45.05:186][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.07.01-12.45.05:186][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.07.01-12.45.05:186][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.07.01-12.45.05:186][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.07.01-12.45.05:186][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.07.01-12.45.05:186][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.07.01-12.45.05:186][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.07.01-12.45.05:186][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.07.01-12.45.05:186][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.07.01-12.45.05:186][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.07.01-12.45.05:186][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.07.01-12.45.05:186][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.07.01-12.45.05:186][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.07.01-12.45.05:186][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.07.01-12.45.05:186][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.07.01-12.45.05:186][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.07.01-12.45.05:186][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.07.01-12.45.05:186][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.07.01-12.45.05:186][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.07.01-12.45.05:186][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Saved/Config/Windows/Scalability.ini]
+[2020.07.01-12.45.05:186][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.07.01-12.45.05:186][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.07.01-12.45.05:186][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Saved/Config/Windows/Scalability.ini]
+[2020.07.01-12.45.05:187][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.07.01-12.45.05:187][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.07.01-12.45.05:187][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.07.01-12.45.05:187][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.07.01-12.45.05:187][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.07.01-12.45.05:187][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.07.01-12.45.05:187][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.07.01-12.45.05:187][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.07.01-12.45.05:187][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.07.01-12.45.05:187][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.07.01-12.45.05:187][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.07.01-12.45.05:187][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Saved/Config/Windows/Engine.ini]
+[2020.07.01-12.45.05:187][  0]LogInit: Computer: DESKTOP-0GI6FT0
+[2020.07.01-12.45.05:187][  0]LogInit: User: Lenovo
+[2020.07.01-12.45.05:187][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.07.01-12.45.05:187][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.07.01-12.45.05:187][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2020.07.01-12.45.05:187][  0]LogMemory: Platform Memory Stats for Windows
+[2020.07.01-12.45.05:187][  0]LogMemory: Process Physical Memory: 114.53 MB used, 114.53 MB peak
+[2020.07.01-12.45.05:188][  0]LogMemory: Process Virtual Memory: 96.34 MB used, 96.34 MB peak
+[2020.07.01-12.45.05:188][  0]LogMemory: Physical Memory: 5461.31 MB used,  2639.91 MB free, 8101.22 MB total
+[2020.07.01-12.45.05:188][  0]LogMemory: Virtual Memory: 5110.34 MB used,  134212616.00 MB free, 134217728.00 MB total
+[2020.07.01-12.45.05:193][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.07.01-12.45.05:227][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2020.07.01-12.45.05:228][  0]LogInit: Using OS detected language (en-US).
+[2020.07.01-12.45.05:228][  0]LogInit: Using OS detected locale (en-US).
+[2020.07.01-12.45.05:236][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.07.01-12.45.05:425][  0]LogInit: Setting process to per monitor DPI aware
+[2020.07.01-12.45.05:462][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.07.01-12.45.05:462][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.07.01-12.45.05:697][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.07.01-12.45.05:697][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.07.01-12.45.05:697][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.07.01-12.45.05:697][  0]LogD3D11RHI: D3D11 adapters:
+[2020.07.01-12.45.05:771][  0]LogD3D11RHI:    0. 'NVIDIA GeForce MX150' (Feature Level 11_0)
+[2020.07.01-12.45.05:771][  0]LogD3D11RHI:       1983/0/4050 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.07.01-12.45.05:790][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 620' (Feature Level 11_0)
+[2020.07.01-12.45.05:790][  0]LogD3D11RHI:       128/0/4050 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.07.01-12.45.05:793][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.07.01-12.45.05:793][  0]LogD3D11RHI:       0/0/4050 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.07.01-12.45.05:794][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.07.01-12.45.05:844][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.07.01-12.45.05:844][  0]LogD3D11RHI:     GPU DeviceId: 0x1d10 (for the marketing name, search the web for "GPU Device Id")
+[2020.07.01-12.45.05:844][  0]LogWindows: EnumDisplayDevices:
+[2020.07.01-12.45.05:844][  0]LogWindows:    0. 'Intel(R) UHD Graphics 620' (P:1 D:1)
+[2020.07.01-12.45.05:844][  0]LogWindows:    1. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2020.07.01-12.45.05:845][  0]LogWindows:    2. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2020.07.01-12.45.05:845][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.07.01-12.45.05:845][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce MX150
+[2020.07.01-12.45.05:845][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.07.01-12.45.05:845][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.07.01-12.45.05:845][  0]LogRHI: Texture pool is 1388 MB (70% of 1983 MB)
+[2020.07.01-12.45.05:888][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.07.01-12.45.05:890][  0]LogD3D11RHI: [Aftermath] Enabled and primed
+[2020.07.01-12.45.05:890][  0]LogD3D11RHI: Async texture creation enabled
+[2020.07.01-12.45.05:890][  0]LogD3D11RHI: Array index from any shader is supported
+[2020.07.01-12.45.05:907][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.07.01-12.45.06:302][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.07.01-12.45.06:325][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.07.01-12.45.06:326][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.07.01-12.45.06:326][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.07.01-12.45.06:326][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.07.01-12.45.06:326][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.07.01-12.45.06:326][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.07.01-12.45.06:326][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.07.01-12.45.06:326][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.07.01-12.45.06:326][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.07.01-12.45.06:326][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.07.01-12.45.06:351][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.07.01-12.45.06:351][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.07.01-12.45.06:362][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2020.07.01-12.45.06:372][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.07.01-12.45.06:382][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.07.01-12.45.06:392][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.07.01-12.45.06:402][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.07.01-12.45.06:412][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.07.01-12.45.06:422][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.07.01-12.45.06:456][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.07.01-12.45.06:456][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.07.01-12.45.06:473][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.07.01-12.45.06:473][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.07.01-12.45.06:485][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.07.01-12.45.06:496][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.07.01-12.45.06:506][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.07.01-12.45.06:516][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.07.01-12.45.06:516][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.07.01-12.45.06:526][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.07.01-12.45.06:591][  0]LogShaderCompilers: Guid format shader working directory is -31 characters bigger than the processId version (../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Intermediate/Shaders/WorkingDirectory/13520/).
+[2020.07.01-12.45.06:591][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Lenovo/AppData/Local/Temp/UnrealShaderWorkingDir/A8C6FD03471C02E0F4F2419D31172E44/'.
+[2020.07.01-12.45.06:592][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.07.01-12.45.06:592][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.07.01-12.45.06:592][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.07.01-12.45.07:716][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.07.01-12.45.07:866][  0]LogDerivedDataCache: Loaded boot cache 0.15s 104MB C:/Users/Lenovo/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.07.01-12.45.07:867][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Lenovo/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2020.07.01-12.45.07:867][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.07.01-12.45.07:867][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.07.01-12.45.07:867][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.07.01-12.45.07:867][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.07.01-12.45.07:897][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.07.01-12.45.07:897][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.07.01-12.45.07:897][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.07.01-12.45.07:899][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Lenovo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.07.01-12.45.07:900][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.07.01-12.45.07:900][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.07.01-12.45.08:076][  0]LogSlate: Using FreeType 2.10.0
+[2020.07.01-12.45.08:078][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.07.01-12.45.08:134][  0]LogAssetRegistry: FAssetRegistry took 0.0051 seconds to start up
+[2020.07.01-12.45.08:790][  0]LogInit: Selected Device Profile: [Windows]
+[2020.07.01-12.45.09:103][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.07.01-12.45.09:104][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.07.01-12.45.09:104][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.07.01-12.45.09:104][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.07.01-12.45.09:104][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.07.01-12.45.09:145][  0]LogNetVersion: Pinball 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 2258170969)
+[2020.07.01-12.45.10:513][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (000001F85C6E6940), frame # 0
+[2020.07.01-12.45.10:513][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F85C5D0B80), frame # 0
+[2020.07.01-12.45.10:517][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F85B6FA200), frame # 0
+[2020.07.01-12.45.10:610][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.079491 seconds
+[2020.07.01-12.45.10:620][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2020.07.01-12.45.10:620][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2020.07.01-12.45.10:620][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.07.01-12.45.11:477][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.07.01-12.45.11:490][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.07.01-12.45.11:711][  0]SourceControl: Source control is disabled
+[2020.07.01-12.45.11:711][  0]SourceControl: Source control is disabled
+[2020.07.01-12.45.11:719][  0]SourceControl: Source control is disabled
+[2020.07.01-12.45.11:725][  0]SourceControl: Source control is disabled
+[2020.07.01-12.45.11:741][  0]SourceControl: Source control is disabled
+[2020.07.01-12.45.11:772][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.07.01-12.45.11:774][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.07.01-12.45.12:350][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.07.01-12.45.12:397][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.07.01-12.45.12:397][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.07.01-12.45.12:528][  0]LogOcInput: OculusInput pre-init called
+[2020.07.01-12.45.12:555][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.07.01-12.45.12:555][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.07.01-12.45.12:702][  0]LogEngine: Initializing Engine...
+[2020.07.01-12.45.12:704][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.07.01-12.45.12:704][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2020.07.01-12.45.12:706][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.07.01-12.45.13:001][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.07.01-12.45.13:018][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.07.01-12.45.13:018][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F85FB91200), frame # 0
+[2020.07.01-12.45.13:018][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F85FB8EC00), frame # 0
+[2020.07.01-12.45.13:066][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.01-12.45.13:066][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.01-12.45.13:067][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.01-12.45.13:067][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.01-12.45.13:067][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.01-12.45.13:067][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.01-12.45.13:067][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.01-12.45.13:067][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.01-12.45.13:067][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.01-12.45.13:067][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.01-12.45.13:099][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.01-12.45.13:100][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.07.01-12.45.13:238][  0]LogAudioMixer: Display: Using Audio Device Speakers (2- Realtek High Definition Audio)
+[2020.07.01-12.45.13:246][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.01-12.45.13:255][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.01-12.45.13:255][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.01-12.45.13:258][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.01-12.45.13:260][  0]LogInit: FAudioDevice initialized.
+[2020.07.01-12.45.13:261][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.07.01-12.45.13:860][  0]LogDerivedDataCache: Saved boot cache 0.60s 104MB C:/Users/Lenovo/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.07.01-12.45.13:871][  0]LogInit: Texture streaming: Enabled
+[2020.07.01-12.45.13:950][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.07.01-12.45.13:950][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.07.01-12.45.13:984][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.07.01-12.45.14:282][  0]LogInit: Transaction tracking system initialized
+[2020.07.01-12.45.14:444][  0]BlueprintLog: New page: Editor Load
+[2020.07.01-12.45.14:631][  0]LocalizationService: Localization service is disabled
+[2020.07.01-12.45.14:833][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.07.01-12.45.14:834][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.07.01-12.45.15:044][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.07.01-12.45.15:044][  0]LogCook: Display: Mobile HDR setting 1
+[2020.07.01-12.45.15:133][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Content/' took 0.01s
+[2020.07.01-12.45.15:133][  0]LogLinker: Warning: Failed to load '/Engine/BasicShapes/Cube': Can't find file.
+[2020.07.01-12.45.15:134][  0]LogLinker: Warning: Failed to load '/Engine/BasicShapes/Cube': Can't find file.
+[2020.07.01-12.45.15:134][  0]LogUObjectGlobals: Warning: Failed to find object 'StaticMesh /Engine/BasicShapes/Cube.Cube'
+[2020.07.01-12.45.15:952][  0]SourceControl: Source control is disabled
+[2020.07.01-12.45.15:952][  0]LogUnrealEdMisc: Loading editor; pre map load, took 19.528
+[2020.07.01-12.45.15:953][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.07.01-12.45.15:954][  0]LightingResults: New page: Lighting Build
+[2020.07.01-12.45.15:956][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.07.01-12.45.15:956][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.01-12.45.15:957][  0]MapCheck: New page: Map Check
+[2020.07.01-12.45.15:957][  0]LightingResults: New page: Lighting Build
+[2020.07.01-12.45.15:977][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F85FB91200), frame # 0
+[2020.07.01-12.45.15:977][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F85FB8EC00), frame # 0
+[2020.07.01-12.45.15:978][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2020.07.01-12.45.16:154][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2020.07.01-12.45.16:154][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F850163E00), frame # 0
+[2020.07.01-12.45.16:155][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F8503A1A80), frame # 0
+[2020.07.01-12.45.16:165][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.07.01-12.45.16:189][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2020.07.01-12.45.16:189][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.07.01-12.45.16:190][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.66ms to complete.
+[2020.07.01-12.45.16:191][  0]LogFileHelpers: Loading map 'Template_Default' took 0.238
+[2020.07.01-12.45.16:196][  0]LogUnrealEdMisc: Total Editor Startup Time, took 19.771
+[2020.07.01-12.45.16:453][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.01-12.45.16:475][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.01-12.45.16:503][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.01-12.45.16:529][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.01-12.45.16:562][  0]LogCollectionManager: Loaded 0 collections in 0.008085 seconds
+[2020.07.01-12.45.16:595][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Saved/Collections/' took 0.00s
+[2020.07.01-12.45.16:595][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Content/Developers/Lenovo/Collections/' took 0.00s
+[2020.07.01-12.45.16:595][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Content/Collections/' took 0.00s
+[2020.07.01-12.45.16:595][  0]LogContentBrowser: Native class hierarchy populated in 0.0217 seconds. Added 3426 classes and 820 folders.
+[2020.07.01-12.45.16:603][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.07.01-12.45.16:728][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.07.01-12.45.16:729][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2020.07.01-12.45.16:796][  0]LogSlate: Took 0.000229 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.07.01-12.45.16:798][  0]LogSlate: Took 0.000191 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.07.01-12.45.16:803][  0]LogSlate: Took 0.000252 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.07.01-12.45.16:885][  0]LogRenderer: Reallocating scene render targets to support 780x304 Format 10 NumSamples 1 (Frame:1).
+[2020.07.01-12.45.16:984][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.07.01-12.45.16:984][  0]LogLoad: (Engine Initialization) Total time: 20.56 seconds
+[2020.07.01-12.45.16:984][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.07.01-12.45.17:044][  0]LogAssetRegistry: Asset discovery search completed in 8.9116 seconds
+[2020.07.01-12.45.17:300][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000008 seconds (updated 0 objects)
+[2020.07.01-12.45.17:303][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.07.01-12.45.17:336][  0]LogSlate: Took 0.000200 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.07.01-12.45.41:486][360]LogSlate: Took 0.000381 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.07.01-12.45.56:741][360]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Pinball_Mudassir.Pinball_Mudassir
+[2020.07.01-12.45.56:780][360]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.07.01-12.45.56:782][360]Cmd: MAP LOAD FILE="../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Content/Pinball_Mudassir.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.07.01-12.45.56:782][360]LightingResults: New page: Lighting Build
+[2020.07.01-12.45.56:782][360]LoadErrors: New page: Loading map: Pinball_Mudassir.umap
+[2020.07.01-12.45.56:782][360]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.07.01-12.45.56:782][360]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.01-12.45.56:783][360]MapCheck: New page: Map Check
+[2020.07.01-12.45.56:783][360]LightingResults: New page: Lighting Build
+[2020.07.01-12.45.56:793][360]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F850163E00), frame # 360
+[2020.07.01-12.45.56:793][360]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F8503A1A80), frame # 360
+[2020.07.01-12.45.56:794][360]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.07.01-12.45.57:190][360]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.07.01-12.45.57:191][360]LogAIModule: Creating AISystem for world Pinball_Mudassir
+[2020.07.01-12.45.57:191][360]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F87D1A8600), frame # 360
+[2020.07.01-12.45.57:191][360]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F841BA7600), frame # 360
+[2020.07.01-12.45.57:215][360]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.07.01-12.45.57:242][360]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.07.01-12.45.57:242][360]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.128ms to complete.
+[2020.07.01-12.45.57:242][360]LogFileHelpers: Loading map 'Pinball_Mudassir' took 0.460
+[2020.07.01-12.46.15:615][369]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.07.01-12.46.15:660][369]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.01-12.46.15:660][369]PIE: New page: PIE session: Pinball_Mudassir (Jul 1, 2020, 11:46:15 PM)
+[2020.07.01-12.46.15:662][369]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.07.01-12.46.15:664][369]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.07.01-12.46.15:664][369]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Pinball_Mudassir
+[2020.07.01-12.46.15:724][369]LogPlayLevel: PIE: StaticDuplicateObject took: (0.059509s)
+[2020.07.01-12.46.15:727][369]LogAIModule: Creating AISystem for world Pinball_Mudassir
+[2020.07.01-12.46.15:727][369]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F8418BE400), frame # 1369
+[2020.07.01-12.46.15:727][369]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F87D249440), frame # 1369
+[2020.07.01-12.46.15:727][369]LogPlayLevel: PIE: World Init took: (0.003107s)
+[2020.07.01-12.46.15:728][369]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Pinball_Mudassir.Pinball_Mudassir to /Game/UEDPIE_0_Pinball_Mudassir.Pinball_Mudassir (0.063051s)
+[2020.07.01-12.46.15:749][369]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2020.07.01-12.46.15:750][369]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.01-12.46.15:751][369]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.01-12.46.15:751][369]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.01-12.46.15:751][369]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.01-12.46.15:751][369]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.01-12.46.15:751][369]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.01-12.46.15:751][369]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.01-12.46.15:751][369]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.01-12.46.15:752][369]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.01-12.46.15:752][369]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.01-12.46.15:760][369]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.01-12.46.15:760][369]LogAudioMixer: Display: 1: FrontRight
+[2020.07.01-12.46.15:818][369]LogAudioMixer: Display: Using Audio Device Speakers (2- Realtek High Definition Audio)
+[2020.07.01-12.46.15:819][369]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.01-12.46.15:819][369]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.01-12.46.15:819][369]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.01-12.46.15:819][369]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.01-12.46.15:849][369]LogInit: FAudioDevice initialized.
+[2020.07.01-12.46.16:002][369]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.01-12.46.16:003][369]LogLoad: Game class is 'PinballGameMode_C'
+[2020.07.01-12.46.16:020][369]LogWorld: Bringing World /Game/UEDPIE_0_Pinball_Mudassir.Pinball_Mudassir up for play (max tick rate 60) at 2020.07.01-18.16.16
+[2020.07.01-12.46.16:020][369]LogWorld: Bringing up level for play took: 0.013286
+[2020.07.01-12.46.16:021][369]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2020.07.01-12.46.16:029][369]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0008 seconds. Added 20 classes and 0 folders.
+[2020.07.01-12.46.16:052][369]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.01-12.46.16:073][369]PIE: Server logged in
+[2020.07.01-12.46.16:077][369]PIE: Play in editor total start time 0.427 seconds.
+[2020.07.01-12.46.16:194][370]LogRenderer: Reallocating scene render targets to support 1280x696 Format 10 NumSamples 1 (Frame:1).
+[2020.07.01-12.47.05:382][ 66]LogActor: Warning: BP_Ball2_5 is outside the world bounds!
+[2020.07.01-12.47.25:459][234]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.01-12.47.25:485][234]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.07.01-12.47.25:505][234]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.07.01-12.47.25:517][234]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.01-12.47.25:517][234]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Pinball_Mudassir
+[2020.07.01-12.47.25:518][234]LogSlate: Window 'Pinball Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.07.01-12.47.25:537][234]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.01-12.47.25:538][234]LogWorld: UWorld::CleanupWorld for Pinball_Mudassir, bSessionEnded=true, bCleanupResources=true
+[2020.07.01-12.47.25:540][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.01-12.47.25:551][234]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.01-12.47.25:554][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.01-12.47.25:578][234]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.01-12.47.25:622][234]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F87D249440), frame # 5234
+[2020.07.01-12.47.25:622][234]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F8418BE400), frame # 5234
+[2020.07.01-12.47.25:626][234]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2020.07.01-12.47.25:694][235]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2020.07.01-12.47.42:223][188]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.07.01-12.47.42:265][188]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.01-12.47.42:266][188]PIE: New page: PIE session: Pinball_Mudassir (Jul 1, 2020, 11:47:42 PM)
+[2020.07.01-12.47.42:266][188]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Pinball_Mudassir
+[2020.07.01-12.47.42:322][188]LogPlayLevel: PIE: StaticDuplicateObject took: (0.055724s)
+[2020.07.01-12.47.42:325][188]LogAIModule: Creating AISystem for world Pinball_Mudassir
+[2020.07.01-12.47.42:325][188]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F850163200), frame # 6188
+[2020.07.01-12.47.42:325][188]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F87AB57600), frame # 6188
+[2020.07.01-12.47.42:326][188]LogPlayLevel: PIE: World Init took: (0.002988s)
+[2020.07.01-12.47.42:326][188]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Pinball_Mudassir.Pinball_Mudassir to /Game/UEDPIE_0_Pinball_Mudassir.Pinball_Mudassir (0.059232s)
+[2020.07.01-12.47.42:348][188]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2020.07.01-12.47.42:350][188]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.01-12.47.42:350][188]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.01-12.47.42:350][188]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.01-12.47.42:350][188]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.01-12.47.42:350][188]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.01-12.47.42:350][188]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.01-12.47.42:350][188]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.01-12.47.42:350][188]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.01-12.47.42:351][188]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.01-12.47.42:351][188]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.01-12.47.42:359][188]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.01-12.47.42:359][188]LogAudioMixer: Display: 1: FrontRight
+[2020.07.01-12.47.42:417][188]LogAudioMixer: Display: Using Audio Device Speakers (2- Realtek High Definition Audio)
+[2020.07.01-12.47.42:418][188]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.01-12.47.42:418][188]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.01-12.47.42:418][188]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.01-12.47.42:419][188]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.01-12.47.42:447][188]LogInit: FAudioDevice initialized.
+[2020.07.01-12.47.42:534][188]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.01-12.47.42:534][188]LogLoad: Game class is 'PinballGameMode_C'
+[2020.07.01-12.47.42:547][188]LogWorld: Bringing World /Game/UEDPIE_0_Pinball_Mudassir.Pinball_Mudassir up for play (max tick rate 60) at 2020.07.01-18.17.42
+[2020.07.01-12.47.42:548][188]LogWorld: Bringing up level for play took: 0.011647
+[2020.07.01-12.47.42:549][188]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2020.07.01-12.47.42:560][188]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.01-12.47.42:566][188]PIE: Server logged in
+[2020.07.01-12.47.42:569][188]PIE: Play in editor total start time 0.314 seconds.
+[2020.07.01-12.47.49:215][486]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.01-12.47.49:216][486]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.07.01-12.47.49:236][486]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.07.01-12.47.49:248][486]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.01-12.47.49:248][486]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Pinball_Mudassir
+[2020.07.01-12.47.49:250][486]LogSlate: Window 'Pinball Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.07.01-12.47.49:278][486]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.01-12.47.49:279][486]LogWorld: UWorld::CleanupWorld for Pinball_Mudassir, bSessionEnded=true, bCleanupResources=true
+[2020.07.01-12.47.49:281][486]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.01-12.47.49:291][486]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.01-12.47.49:294][486]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.01-12.47.49:317][486]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.01-12.47.49:363][486]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F87AB57600), frame # 6486
+[2020.07.01-12.47.49:363][486]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F850163200), frame # 6486
+[2020.07.01-12.47.49:366][486]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2020.07.01-12.47.49:426][487]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2020.07.01-12.47.50:054][521]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.07.01-12.47.50:096][521]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.01-12.47.50:097][521]PIE: New page: PIE session: Pinball_Mudassir (Jul 1, 2020, 11:47:50 PM)
+[2020.07.01-12.47.50:097][521]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Pinball_Mudassir
+[2020.07.01-12.47.50:152][521]LogPlayLevel: PIE: StaticDuplicateObject took: (0.055394s)
+[2020.07.01-12.47.50:154][521]LogAIModule: Creating AISystem for world Pinball_Mudassir
+[2020.07.01-12.47.50:154][521]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F8418BF600), frame # 6521
+[2020.07.01-12.47.50:154][521]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F87ABAD580), frame # 6521
+[2020.07.01-12.47.50:154][521]LogPlayLevel: PIE: World Init took: (0.002208s)
+[2020.07.01-12.47.50:154][521]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Pinball_Mudassir.Pinball_Mudassir to /Game/UEDPIE_0_Pinball_Mudassir.Pinball_Mudassir (0.057970s)
+[2020.07.01-12.47.50:180][521]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2020.07.01-12.47.50:181][521]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.01-12.47.50:181][521]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.01-12.47.50:181][521]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.01-12.47.50:182][521]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.01-12.47.50:182][521]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.01-12.47.50:182][521]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.01-12.47.50:182][521]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.01-12.47.50:182][521]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.01-12.47.50:183][521]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.01-12.47.50:183][521]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.01-12.47.50:192][521]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.01-12.47.50:192][521]LogAudioMixer: Display: 1: FrontRight
+[2020.07.01-12.47.50:258][521]LogAudioMixer: Display: Using Audio Device Speakers (2- Realtek High Definition Audio)
+[2020.07.01-12.47.50:259][521]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.01-12.47.50:259][521]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.01-12.47.50:259][521]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.01-12.47.50:260][521]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.01-12.47.50:297][521]LogInit: FAudioDevice initialized.
+[2020.07.01-12.47.50:384][521]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.01-12.47.50:385][521]LogLoad: Game class is 'PinballGameMode_C'
+[2020.07.01-12.47.50:398][521]LogWorld: Bringing World /Game/UEDPIE_0_Pinball_Mudassir.Pinball_Mudassir up for play (max tick rate 60) at 2020.07.01-18.17.50
+[2020.07.01-12.47.50:400][521]LogWorld: Bringing up level for play took: 0.011913
+[2020.07.01-12.47.50:400][521]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2020.07.01-12.47.50:413][521]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.01-12.47.50:419][521]PIE: Server logged in
+[2020.07.01-12.47.50:422][521]PIE: Play in editor total start time 0.336 seconds.
+[2020.07.01-12.48.54:008][751]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.01-12.48.54:025][751]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.07.01-12.48.54:045][751]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.07.01-12.48.54:056][751]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.01-12.48.54:056][751]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Pinball_Mudassir
+[2020.07.01-12.48.54:057][751]LogSlate: Window 'Pinball Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.07.01-12.48.54:067][751]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.01-12.48.54:068][751]LogWorld: UWorld::CleanupWorld for Pinball_Mudassir, bSessionEnded=true, bCleanupResources=true
+[2020.07.01-12.48.54:069][751]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.01-12.48.54:081][751]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.01-12.48.54:084][751]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.01-12.48.54:108][751]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.01-12.48.54:153][751]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F87ABAD580), frame # 9751
+[2020.07.01-12.48.54:153][751]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F8418BF600), frame # 9751
+[2020.07.01-12.48.54:155][751]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2020.07.01-12.48.54:208][752]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2020.07.01-12.49.44:428][ 11]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/Blueprints/BP_Cannon.BP_Cannon
+[2020.07.01-12.49.44:967][ 11]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0012 seconds. Added 125 classes and 0 folders.
+[2020.07.01-12.49.47:283][ 11]LogSlate: Took 0.000398 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.07.01-12.49.58:127][444]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/Blueprints/BP_Ramp.BP_Ramp
+[2020.07.01-12.49.59:571][445]LogSlate: Took 0.000493 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.07.01-12.50.29:774][484]LogSlate: Window 'BP_Ramp' being destroyed
+[2020.07.01-12.50.29:798][484]LogSlate: Window 'BP_Ramp' being destroyed
+[2020.07.01-12.50.29:803][484]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.07.01-12.50.29:803][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.01-12.50.29:918][484]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.07.01-12.50.29:918][484]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.07.01-12.50.29:918][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.01-12.50.46:292][205]LogEditorViewport: Clicking on Actor (LMB): BP_SlingBand_C (BP_SlingBand)
+[2020.07.01-12.50.47:207][247]Cmd: DELETE
+[2020.07.01-12.50.47:208][247]Cmd: ACTOR DELETE
+[2020.07.01-12.50.47:300][247]LogEditorActor: Deleted Actor: BP_SlingBand_C
+[2020.07.01-12.50.47:355][247]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2020.07.01-12.50.47:360][247]LogEditorActor: Deleted 1 Actors (0.087 secs)
+[2020.07.01-12.51.07:864][122]Cmd: DELETE
+[2020.07.01-12.51.07:864][122]Cmd: ACTOR DELETE
+[2020.07.01-12.51.07:883][122]LogEditorActor: Deleted Actor: TriggerSphere
+[2020.07.01-12.51.07:924][122]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2020.07.01-12.51.07:928][122]LogEditorActor: Deleted 1 Actors (0.064 secs)
+[2020.07.01-12.51.11:682][327]LogActorFactory: Actor Factory created Cylinder
+[2020.07.01-12.51.13:372][403]LogActorFactory: Actor Factory created Cylinder
+[2020.07.01-12.51.18:921][674]Cmd: DELETE
+[2020.07.01-12.51.18:921][674]Cmd: ACTOR DELETE
+[2020.07.01-12.51.18:937][674]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.07.01-12.51.18:976][674]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2020.07.01-12.51.18:980][674]LogEditorActor: Deleted 1 Actors (0.058 secs)
+[2020.07.01-12.51.27:345][ 86]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.07.01-12.52.45:339][789]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.07.01-12.53.28:811][610]LogDerivedDataCache: C:/Users/Lenovo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision, attempt at redundant update, OK C:/Users/Lenovo/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/1/8/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_7EABC81544E77574F7EFB6BF06A88F8D__1_0_0_0_3_13315_0.udd.
+[2020.07.01-12.54.06:809][ 27]LogEditorViewport: Clicking on Actor (context menu): BP_Bumper_C (BP_Bumper2)
+[2020.07.01-12.54.56:549][175]Cmd: TRANSACTION UNDO
+[2020.07.01-12.54.56:726][175]LogEditorTransaction: Undo Move Actors
+[2020.07.01-12.55.32:879][ 17]LogEditorViewport: Clicking on Actor (LMB): BP_Ball_C (BP_Ball)
+[2020.07.01-12.55.33:672][ 55]Cmd: DELETE
+[2020.07.01-12.55.33:672][ 55]Cmd: ACTOR DELETE
+[2020.07.01-12.55.33:768][ 55]LogEditorActor: Deleted Actor: BP_Ball_C
+[2020.07.01-12.55.34:729][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2020.07.01-12.55.34:742][ 55]LogEditorActor: Deleted 1 Actors (1.032 secs)
+[2020.07.01-12.55.39:058][309]LogEditorViewport: Clicking on Actor (LMB): BP_Bumper_C (BP_Bumper4)
+[2020.07.01-12.55.53:491][ 74]Cmd: TRANSACTION UNDO
+[2020.07.01-12.55.53:491][ 74]LogEditorTransaction: Undo Move Actors
+[2020.07.01-12.56.16:323][266]Cmd: SELECT NONE
+[2020.07.01-12.56.22:358][592]Cmd: SELECT NONE
+[2020.07.01-12.56.36:771][382]LogEditorViewport: Clicking on Actor (LMB): BP_Bumper_C (BP_Bumper3)
+[2020.07.01-12.56.40:876][594]LogEditorViewport: Clicking on Actor (LMB): BP_Bumper_C (BP_Bumper2)
+[2020.07.01-12.56.44:016][757]Cmd: TRANSACTION UNDO
+[2020.07.01-12.56.44:016][757]LogEditorTransaction: Undo Move Actors
+[2020.07.01-12.56.49:671][ 26]LogEditorViewport: Clicking on Actor (LMB): BP_Bumper_C (BP_Bumper)
+[2020.07.01-12.56.53:309][218]LogEditorViewport: Clicking on Actor (LMB): BP_Ball_C (BP_Ball2)
+[2020.07.01-12.56.54:104][259]Cmd: DELETE
+[2020.07.01-12.56.54:104][259]Cmd: ACTOR DELETE
+[2020.07.01-12.56.54:135][259]LogEditorActor: Deleted Actor: BP_Ball_C
+[2020.07.01-12.56.54:189][259]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2020.07.01-12.56.54:200][259]LogEditorActor: Deleted 1 Actors (0.095 secs)
+[2020.07.01-12.57.13:052][273]Cmd: TRANSACTION UNDO
+[2020.07.01-12.57.13:052][273]LogEditorTransaction: Undo Move Actors
+[2020.07.01-12.59.01:842][844]Cmd: TRANSACTION UNDO
+[2020.07.01-12.59.01:842][844]LogEditorTransaction: Undo Move Actors
+[2020.07.01-12.59.13:641][316]Cmd: TRANSACTION UNDO
+[2020.07.01-12.59.13:642][316]LogEditorTransaction: Undo Move Actors
+[2020.07.01-13.00.10:531][205]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2020.07.01-13.00.16:422][205]LogSavePackage: Moving '../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Saved/Pinball_Mudassir_Auto1CB513F0D42DBD5ACE3DDCE95208455B4.tmp' to '../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Saved/Autosaves/Game/Pinball_Mudassir_Auto1.umap'
+[2020.07.01-13.00.16:598][205]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Pinball_Mudassir' took 6.107
+[2020.07.01-13.00.16:598][205]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 6.107
+[2020.07.01-13.05.48:295][988]LogEditorViewport: Clicking on Actor (LMB): BP_Bumper_C (BP_Bumper)
+[2020.07.01-13.06.23:627][597]LogEditorViewport: Clicking on Actor (LMB): BP_Bumper_C (BP_Bumper2)
+[2020.07.01-13.08.32:341][716]LogEditorViewport: Clicking on Actor (LMB): BP_Bumper_C (BP_Bumper3)
+[2020.07.01-13.09.07:970][227]LogEditorViewport: Clicking on Actor (LMB): BP_Bumper_C (BP_Bumper)
+[2020.07.01-13.09.26:606][216]LogEditorViewport: Clicking on Actor (LMB): BP_Bumper_C (BP_Bumper3)
+[2020.07.01-13.09.36:921][740]LogEditorViewport: Clicking on Actor (LMB): BP_Bumper_C (BP_Bumper2)
+[2020.07.01-13.09.53:601][639]LogEditorViewport: Clicking on Actor (LMB): BP_Bumper_C (BP_Bumper)
+[2020.07.01-13.10.06:323][316]LogEditorViewport: Clicking on Actor (LMB): BP_Bumper_C (BP_Bumper3)
+[2020.07.01-13.10.31:846][409]LogEditorViewport: Clicking on Actor (LMB): BP_Bumper_C (BP_Bumper)
+[2020.07.01-13.10.34:447][544]LogEditorViewport: Clicking on Actor (LMB): BP_Bumper_C (BP_Bumper2)
+[2020.07.01-13.10.36:530][654]LogEditorViewport: Clicking on Actor (LMB): BP_Bumper_C (BP_Bumper7)
+[2020.07.01-13.10.47:992][228]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.07.01-13.12.12:736][741]Cmd: SELECT NONE
+[2020.07.01-13.14.01:269][ 63]LogEditorViewport: Clicking on Actor (LMB): BP_Bumper_C (BP_Bumper)
+[2020.07.01-13.14.04:410][229]LogEditorViewport: Clicking on Actor (LMB): BP_Bumper_C (BP_Bumper2)
+[2020.07.01-13.14.10:732][558]LogEditorViewport: Clicking on Actor (LMB): BP_Bumper_C (BP_Bumper3)
+[2020.07.01-13.14.12:840][668]LogEditorViewport: Clicking on Actor (LMB): BP_Bumper_C (BP_Bumper7)
+[2020.07.01-13.14.15:406][799]LogEditorViewport: Clicking on Actor (LMB): BP_Bumper_C (BP_Bumper6)
+[2020.07.01-13.14.18:359][946]LogEditorViewport: Clicking on Actor (LMB): BP_Bumper_C (BP_Bumper3)
+[2020.07.01-13.14.21:375][ 80]LogEditorViewport: Clicking on Actor (LMB): BP_Bumper_C (BP_Bumper7)
+[2020.07.01-13.14.23:212][167]LogEditorViewport: Clicking on Actor (LMB): BP_Bumper_C (BP_Bumper2)
+[2020.07.01-13.14.24:769][247]LogEditorViewport: Clicking on Actor (LMB): BP_Bumper_C (BP_Bumper)
+[2020.07.01-13.14.34:833][738]LogEditorViewport: Clicking on Actor (LMB): BP_Bumper_C (BP_Bumper6)
+[2020.07.01-13.14.37:983][893]Cmd: SELECT NONE
+[2020.07.01-13.15.18:227][728]LogDerivedDataCache: C:/Users/Lenovo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision, attempt at redundant update, OK C:/Users/Lenovo/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/3/6/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_278EEB3E4757ACB6517788A455BCF4EC__1_0_0_0_3_13315_0.udd.
+[2020.07.01-13.15.54:979][830]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.07.01-13.16.09:063][449]LogEditorViewport: Clicking Background
+[2020.07.01-13.16.48:852][ 28]LogUObjectHash: Compacting FUObjectHashTables data took  10.31ms
+[2020.07.01-13.16.49:258][ 28]LogSavePackage: Moving '../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Saved/Pinball_Mudassir_Auto2A9A84D6E4AF1582483AD8C8FA5A5999E.tmp' to '../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Saved/Autosaves/Game/Pinball_Mudassir_Auto2.umap'
+[2020.07.01-13.16.49:261][ 28]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Pinball_Mudassir' took 0.588
+[2020.07.01-13.16.49:261][ 28]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.588
+[2020.07.01-13.22.17:501][607]Cmd: DELETE
+[2020.07.01-13.22.17:501][607]Cmd: ACTOR DELETE
+[2020.07.01-13.22.17:623][607]LogEditorActor: Deleted Actor: Brush
+[2020.07.01-13.22.17:728][607]LogUObjectHash: Compacting FUObjectHashTables data took   4.88ms
+[2020.07.01-13.22.17:890][607]LogEditorActor: Deleted 1 Actors (0.388 secs)
+[2020.07.01-13.22.28:040][196]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.07.01-13.22.59:671][890]Cmd: SELECT NONE
+[2020.07.01-13.23.56:627][928]LogUObjectHash: Compacting FUObjectHashTables data took   5.41ms
+[2020.07.01-13.23.56:957][928]LogSavePackage: Moving '../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Saved/Pinball_Mudassir23B8FBAC498AC08ADA86568026975B92.tmp' to '../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Content/Pinball_Mudassir.umap'
+[2020.07.01-13.23.57:092][928]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pinball_Mudassir_BuiltData" FILE="../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Content/Pinball_Mudassir_BuiltData.uasset" SILENT=true
+[2020.07.01-13.23.57:291][928]LogSavePackage: Moving '../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Saved/Pinball_Mudassir_BuiltDataE3DD246C43E06BF6210ABBA4B091E790.tmp' to '../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Content/Pinball_Mudassir_BuiltData.uasset'
+[2020.07.01-13.23.57:371][928]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.01-13.23.57:372][928]LogContentValidation: Display: Validating World /Game/Pinball_Mudassir.Pinball_Mudassir
+[2020.07.01-13.23.57:372][928]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Pinball_Mudassir_BuiltData.Pinball_Mudassir_BuiltData
+[2020.07.01-13.24.00:221][ 63]Cmd: SELECT NONE
+[2020.07.01-13.25.24:099][559]LogLinker: Warning: The file '../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Content/Assets/flipper_rubber.uasset' contains unrecognizable data, check that it is of the expected type.
+[2020.07.01-13.25.24:100][559]LogLinker: Warning: The file '../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Content/Assets/flipper_rubber.uasset' contains unrecognizable data, check that it is of the expected type.
+[2020.07.01-13.25.24:100][559]LogLinker: Warning: The file '../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Content/Assets/flipper_rubber.uasset' contains unrecognizable data, check that it is of the expected type.
+[2020.07.01-13.25.24:101][559]LogLinker: Warning: The file '../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Content/Assets/flipper_rubber.uasset' contains unrecognizable data, check that it is of the expected type.
+[2020.07.01-13.25.24:546][559]LogLinker: Warning: The file '../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Content/Assets/flipper_rubber.uasset' contains unrecognizable data, check that it is of the expected type.
+[2020.07.01-13.25.24:546][559]LogLinker: Warning: The file '../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Content/Assets/flipper_rubber.uasset' contains unrecognizable data, check that it is of the expected type.
+[2020.07.01-13.25.28:928][706]Cmd: DELETE
+[2020.07.01-13.25.28:928][706]Cmd: ACTOR DELETE
+[2020.07.01-13.25.28:965][706]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2020.07.01-13.25.29:032][706]LogUObjectHash: Compacting FUObjectHashTables data took   5.85ms
+[2020.07.01-13.25.29:050][706]LogEditorActor: Deleted 1 Actors (0.121 secs)
+[2020.07.01-13.27.49:431][538]LogEditorViewport: Clicking on Actor (LMB): BP_Bumper_C (BP_Bumper9)
+[2020.07.01-13.27.52:409][688]LogEditorViewport: Clicking on Actor (LMB): BP_Bumper_C (BP_Bumper8)
+[2020.07.01-13.28.06:734][463]LogEditorViewport: Clicking on Actor (LMB): BP_Bumper_C (BP_Bumper9)
+[2020.07.01-13.28.12:740][811]LogEditorViewport: Clicking on Actor (LMB): BP_Bumper_C (BP_Bumper10)
+[2020.07.01-13.28.24:538][471]LogEditorViewport: Clicking on Actor (LMB): BP_Bumper_C (BP_Bumper9)
+[2020.07.01-13.28.30:017][781]LogEditorViewport: Clicking on Actor (LMB): BP_Bumper_C (BP_Bumper10)
+[2020.07.01-13.28.36:271][104]LogEditorViewport: Clicking on Actor (LMB): BP_Bumper_C (BP_Bumper8)
+[2020.07.01-13.28.54:012][133]LogEditorViewport: Clicking on Actor (LMB): BP_Bumper_C (BP_Bumper10)
+[2020.07.01-13.29.11:013][971]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2020.07.01-13.29.11:370][971]LogSavePackage: Moving '../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Saved/Pinball_Mudassir65D72E904965A4AA9C6A428AD82D7240.tmp' to '../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Content/Pinball_Mudassir.umap'
+[2020.07.01-13.29.11:444][971]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pinball_Mudassir_BuiltData" FILE="../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Content/Pinball_Mudassir_BuiltData.uasset" SILENT=true
+[2020.07.01-13.29.11:556][971]LogSavePackage: Moving '../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Saved/Pinball_Mudassir_BuiltDataFDBDFB144B2BA1C44D67C8A171AD2B18.tmp' to '../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Content/Pinball_Mudassir_BuiltData.uasset'
+[2020.07.01-13.29.11:608][971]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.01-13.29.11:608][971]LogContentValidation: Display: Validating World /Game/Pinball_Mudassir.Pinball_Mudassir
+[2020.07.01-13.29.11:609][971]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Pinball_Mudassir_BuiltData.Pinball_Mudassir_BuiltData
+[2020.07.01-13.30.02:633][ 47]LogEditorViewport: Clicking on Actor (LMB): BP_Bumper_C (BP_Bumper5)
+[2020.07.01-13.30.44:159][ 25]Cmd: SELECT NONE
+[2020.07.01-13.30.48:052][220]Cmd: SELECT NONE
+[2020.07.01-13.30.52:745][410]Cmd: SELECT NONE
+[2020.07.01-13.31.27:728][940]Cmd: SELECT NONE
+[2020.07.01-13.31.37:147][392]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2020.07.01-13.31.37:460][392]LogSavePackage: Moving '../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Saved/Pinball_MudassirBD792C3C4422F7CCB9254B901698205C.tmp' to '../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Content/Pinball_Mudassir.umap'
+[2020.07.01-13.31.37:543][392]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pinball_Mudassir_BuiltData" FILE="../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Content/Pinball_Mudassir_BuiltData.uasset" SILENT=true
+[2020.07.01-13.31.37:650][392]LogSavePackage: Moving '../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Saved/Pinball_Mudassir_BuiltData29DFFA1E476EF8176EBA74811CDAEAD4.tmp' to '../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Content/Pinball_Mudassir_BuiltData.uasset'
+[2020.07.01-13.31.37:691][392]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.01-13.31.37:691][392]LogContentValidation: Display: Validating World /Game/Pinball_Mudassir.Pinball_Mudassir
+[2020.07.01-13.31.37:691][392]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Pinball_Mudassir_BuiltData.Pinball_Mudassir_BuiltData
+[2020.07.01-13.32.14:605][633]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.07.01-13.33.21:637][150]LogUObjectHash: Compacting FUObjectHashTables data took   5.49ms
+[2020.07.01-13.33.21:943][150]LogSavePackage: Moving '../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Saved/Pinball_MudassirBD494E3547C551CC848614A04B0D1D90.tmp' to '../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Content/Pinball_Mudassir.umap'
+[2020.07.01-13.33.22:009][150]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pinball_Mudassir_BuiltData" FILE="../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Content/Pinball_Mudassir_BuiltData.uasset" SILENT=true
+[2020.07.01-13.33.22:113][150]LogSavePackage: Moving '../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Saved/Pinball_Mudassir_BuiltData7169FEED44AD36C608A2EB86DF7526F2.tmp' to '../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Content/Pinball_Mudassir_BuiltData.uasset'
+[2020.07.01-13.33.22:141][150]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.01-13.33.22:141][150]LogContentValidation: Display: Validating World /Game/Pinball_Mudassir.Pinball_Mudassir
+[2020.07.01-13.33.22:141][150]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Pinball_Mudassir_BuiltData.Pinball_Mudassir_BuiltData
+[2020.07.01-13.33.39:860][772]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/Blueprints/BP_RampNoPlastic.BP_RampNoPlastic
+[2020.07.01-13.37.42:058][245]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/Blueprints/BP_Ramp.BP_Ramp
+[2020.07.01-13.42.22:460][  3]LogSavePackage: Moving '../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Saved/BP_RampNoPlastic31A9CD5C40CDE31345E67BA85AB2B103.tmp' to '../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Content/Assets/Blueprints/BP_RampNoPlastic.uasset'
+[2020.07.01-13.42.22:522][  3]AssetCheck: New page: Asset Save: BP_RampNoPlastic
+[2020.07.01-13.42.22:522][  3]LogContentValidation: Display: Validating Blueprint /Game/Assets/Blueprints/BP_RampNoPlastic.BP_RampNoPlastic
+[2020.07.01-13.42.25:110][115]LogUObjectHash: Compacting FUObjectHashTables data took   7.30ms
+[2020.07.01-13.42.25:779][115]LogSavePackage: Moving '../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Saved/Pinball_MudassirB338BBA745DE5936C0CD0B8A3417B51D.tmp' to '../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Content/Pinball_Mudassir.umap'
+[2020.07.01-13.42.25:781][115]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Saved/Pinball_MudassirB338BBA745DE5936C0CD0B8A3417B51D.tmp' to '../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Content/Pinball_Mudassir.umap' (Error Code 32), retrying in .5s...
+[2020.07.01-13.42.26:283][115]LogFileManager: Warning: MoveFile recovered during retry!
+[2020.07.01-13.42.26:378][115]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pinball_Mudassir_BuiltData" FILE="../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Content/Pinball_Mudassir_BuiltData.uasset" SILENT=true
+[2020.07.01-13.42.26:506][115]LogSavePackage: Moving '../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Saved/Pinball_Mudassir_BuiltData968896EC4AA1D281FAD3029F0EAFD1DF.tmp' to '../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Content/Pinball_Mudassir_BuiltData.uasset'
+[2020.07.01-13.42.26:561][115]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.01-13.42.26:561][115]LogContentValidation: Display: Validating World /Game/Pinball_Mudassir.Pinball_Mudassir
+[2020.07.01-13.42.26:561][115]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Pinball_Mudassir_BuiltData.Pinball_Mudassir_BuiltData
+[2020.07.01-13.46.06:940][505]LogEditorTransaction: Undo Paste clipboard contents
+[2020.07.01-13.46.38:572][956]BlueprintLog: New page: Compile BP_RampNoPlastic
+[2020.07.01-13.46.38:728][956]LogUObjectHash: Compacting FUObjectHashTables data took   4.99ms
+[2020.07.01-13.46.59:866][782]LogEditorTransaction: Undo Create Pin Link
+[2020.07.01-13.47.00:584][799]LogEditorTransaction: Undo Move Node
+[2020.07.01-13.47.01:036][814]LogEditorTransaction: Undo Paste clipboard contents
+[2020.07.01-13.52.25:230][321]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2020.07.01-13.52.25:233][321]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Pinball_Mudassir' took 0.028
+[2020.07.01-13.52.25:233][321]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Blueprints/BP_RampNoPlastic] ([1] browsable assets)...
+[2020.07.01-13.52.25:233][321]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Blueprints/BP_RampNoPlastic]
+[2020.07.01-13.52.25:321][321]LogSavePackage: Moving '../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Saved/BP_RampNoPlastic_Auto33690DBF5454CBAD17251FB834B365DCC.tmp' to '../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Saved/Autosaves/Game/Assets/Blueprints/BP_RampNoPlastic_Auto3.uasset'
+[2020.07.01-13.52.25:321][321]LogFileHelpers: Auto-saving content packages took 0.090
+[2020.07.01-15.25.57:337][671]LogUObjectHash: Compacting FUObjectHashTables data took   8.16ms
+[2020.07.01-15.26.00:247][671]LogSlate: Window 'Delete Assets' being destroyed
+[2020.07.01-15.26.33:860][346]BlueprintLog: New page: Compile BP_RampNoPlastic
+[2020.07.01-15.26.33:954][346]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2020.07.01-15.30.58:032][780]LogSlate: Window 'BP_Ramp' being destroyed
+[2020.07.01-15.30.58:060][780]LogSlate: Window 'BP_Ramp' being destroyed
+[2020.07.01-15.30.58:195][780]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.07.01-15.30.58:195][780]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.01-15.30.58:499][780]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.07.01-15.30.58:500][780]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.07.01-15.30.58:500][780]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.01-15.30.59:475][804]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/Blueprints/BP_RampNoPlastic.BP_RampNoPlastic
+[2020.07.01-15.31.18:165][690]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/Blueprints/BP_Ramp.BP_Ramp
+[2020.07.01-15.32.55:524][771]LogUObjectHash: Compacting FUObjectHashTables data took   7.99ms
+[2020.07.01-15.32.55:533][771]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Pinball_Mudassir' took 0.075
+[2020.07.01-15.32.55:533][771]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Blueprints/BP_RampNoPlastic] ([1] browsable assets)...
+[2020.07.01-15.32.55:533][771]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Blueprints/BP_RampNoPlastic]
+[2020.07.01-15.32.55:760][771]LogSavePackage: Moving '../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Saved/BP_RampNoPlastic_Auto4896DA6B9450736C8F15F30A5A5E22195.tmp' to '../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Saved/Autosaves/Game/Assets/Blueprints/BP_RampNoPlastic_Auto4.uasset'
+[2020.07.01-15.32.55:762][771]LogFileHelpers: Auto-saving content packages took 0.229
+[2020.07.01-15.33.12:585][356]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/Blueprints/BP_Rail.BP_Rail
+[2020.07.01-15.33.35:524][310]BlueprintLog: New page: Compile BP_RampNoPlastic
+[2020.07.01-15.33.35:542][310]LogBlueprint: Error: [Compiler BP_RampNoPlastic] This blueprint (self) is not a SplineComponent, therefore ' Target ' must have a connection.
+[2020.07.01-15.33.35:748][310]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2020.07.01-15.33.46:330][792]LogSlate: Took 0.059512 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.07.01-15.33.54:966][236]BlueprintLog: New page: Compile BP_RampNoPlastic
+[2020.07.01-15.33.55:052][236]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2020.07.01-15.33.56:060][271]LogSavePackage: Moving '../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Saved/BP_RampNoPlastic860E24644B6162F73AB2DA867E910B80.tmp' to '../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Content/Assets/Blueprints/BP_RampNoPlastic.uasset'
+[2020.07.01-15.33.56:061][271]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Saved/BP_RampNoPlastic860E24644B6162F73AB2DA867E910B80.tmp' to '../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Content/Assets/Blueprints/BP_RampNoPlastic.uasset' (Error Code 32), retrying in .5s...
+[2020.07.01-15.33.56:563][271]LogFileManager: Warning: MoveFile recovered during retry!
+[2020.07.01-15.33.56:652][271]AssetCheck: New page: Asset Save: BP_RampNoPlastic
+[2020.07.01-15.33.56:652][271]LogContentValidation: Display: Validating Blueprint /Game/Assets/Blueprints/BP_RampNoPlastic.BP_RampNoPlastic
+[2020.07.01-15.34.44:624][ 80]LogEditorTransaction: Undo Modify Component(s)
+[2020.07.01-15.35.07:709][139]BlueprintLog: New page: Compile BP_RampNoPlastic
+[2020.07.01-15.35.07:806][139]LogUObjectHash: Compacting FUObjectHashTables data took   5.24ms
+[2020.07.01-15.35.08:791][170]LogSavePackage: Moving '../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Saved/BP_RampNoPlastic4212E9B1496F55B36CCB038D207CCC28.tmp' to '../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Content/Assets/Blueprints/BP_RampNoPlastic.uasset'
+[2020.07.01-15.35.08:829][170]AssetCheck: New page: Asset Save: BP_RampNoPlastic
+[2020.07.01-15.35.08:830][170]LogContentValidation: Display: Validating Blueprint /Game/Assets/Blueprints/BP_RampNoPlastic.BP_RampNoPlastic
+[2020.07.01-15.35.16:209][432]BlueprintLog: New page: Compile BP_RampNoPlastic
+[2020.07.01-15.35.16:294][432]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2020.07.01-15.35.17:322][466]LogSavePackage: Moving '../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Saved/BP_RampNoPlasticB4EFBFBA4B3A9229E5E7049E47952782.tmp' to '../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Content/Assets/Blueprints/BP_RampNoPlastic.uasset'
+[2020.07.01-15.35.17:357][466]AssetCheck: New page: Asset Save: BP_RampNoPlastic
+[2020.07.01-15.35.17:357][466]LogContentValidation: Display: Validating Blueprint /Game/Assets/Blueprints/BP_RampNoPlastic.BP_RampNoPlastic
+[2020.07.01-15.36.27:653][929]Cmd: DELETE
+[2020.07.01-15.36.27:653][929]Cmd: ACTOR DELETE
+[2020.07.01-15.36.27:669][929]LogEditorActor: Deleted Actor: BP_RampNoPlastic_C
+[2020.07.01-15.36.27:735][929]LogUObjectHash: Compacting FUObjectHashTables data took   5.34ms
+[2020.07.01-15.36.27:740][929]LogEditorActor: Deleted 1 Actors (0.087 secs)
+[2020.07.01-15.37.14:990][168]BlueprintLog: New page: Compile BP_RampNoPlastic
+[2020.07.01-15.37.15:080][168]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2020.07.01-15.37.15:875][195]LogSavePackage: Moving '../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Saved/BP_RampNoPlastic8E942C16465D8F2B0C8812A820FBDA52.tmp' to '../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Content/Assets/Blueprints/BP_RampNoPlastic.uasset'
+[2020.07.01-15.37.15:912][195]AssetCheck: New page: Asset Save: BP_RampNoPlastic
+[2020.07.01-15.37.15:913][195]LogContentValidation: Display: Validating Blueprint /Game/Assets/Blueprints/BP_RampNoPlastic.BP_RampNoPlastic
+[2020.07.01-15.37.27:428][640]LogSavePackage: Moving '../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Saved/BP_RampNoPlasticADD9E3194440A7180270FCBAB7326C1A.tmp' to '../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Content/Assets/Blueprints/BP_RampNoPlastic.uasset'
+[2020.07.01-15.37.27:462][640]AssetCheck: New page: Asset Save: BP_RampNoPlastic
+[2020.07.01-15.37.27:462][640]LogContentValidation: Display: Validating Blueprint /Game/Assets/Blueprints/BP_RampNoPlastic.BP_RampNoPlastic
+[2020.07.01-15.37.28:712][692]LogSlate: Window 'BP_Rail' being destroyed
+[2020.07.01-15.37.28:726][692]LogSlate: Window 'BP_Rail' being destroyed
+[2020.07.01-15.37.28:781][692]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.07.01-15.37.28:781][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.01-15.37.28:906][692]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.07.01-15.37.28:906][692]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.07.01-15.37.28:906][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.01-15.37.29:013][692]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.07.01-15.37.29:013][692]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.07.01-15.37.29:014][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.01-15.37.43:118][161]LogActorFactory: Actor Factory created SM_PlasticRamp
+[2020.07.01-15.37.44:273][207]LogActorFactory: Actor Factory created SM_PlasticRamp
+[2020.07.01-15.38.08:392][254]LogActorFactory: Actor Factory created SM_RampNoTop
+[2020.07.01-15.38.09:083][286]LogActorFactory: Actor Factory created SM_RampNoTop
+[2020.07.01-15.38.17:750][712]Cmd: DELETE
+[2020.07.01-15.38.17:750][712]Cmd: ACTOR DELETE
+[2020.07.01-15.38.17:764][712]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.07.01-15.38.17:814][712]LogUObjectHash: Compacting FUObjectHashTables data took   5.14ms
+[2020.07.01-15.38.17:825][712]LogEditorActor: Deleted 1 Actors (0.075 secs)
+[2020.07.01-15.38.53:841][491]LogEditorViewport: Clicking on Actor (LMB): BP_RampNoPlastic_C (BP_RampNoPlastic)
+[2020.07.01-15.39.00:151][815]LogEditorViewport: Clicking on Actor (LMB): BP_RampNoPlastic_C (BP_RampNoPlastic)
+[2020.07.01-15.39.21:132][925]Cmd: DELETE
+[2020.07.01-15.39.21:132][925]Cmd: ACTOR DELETE
+[2020.07.01-15.39.21:152][925]LogEditorActor: Deleted Actor: Brush
+[2020.07.01-15.39.21:317][925]LogUObjectHash: Compacting FUObjectHashTables data took   6.18ms
+[2020.07.01-15.39.21:459][925]LogEditorActor: Deleted 1 Actors (0.327 secs)
+[2020.07.01-15.39.27:052][151]Cmd: TRANSACTION UNDO
+[2020.07.01-15.39.27:052][151]LogEditorTransaction: Undo Select Brush Surface
+[2020.07.01-15.39.33:122][151]LogStats: FPlatformStackWalk::StackWalkAndDump -  6.017 s
+[2020.07.01-15.39.33:122][151]LogOutputDevice: Error: === Handled ensure: ===
+[2020.07.01-15.39.33:122][151]LogOutputDevice: Error: 
+[2020.07.01-15.39.33:122][151]LogOutputDevice: Error: Ensure condition failed: ComponentModel->Nodes.IsValidIndex(ModelElement.Nodes[NodeIndex]) [File:D:/Build/++UE4+Licensee/Sync/Engine/Source/Runtime/Engine/Private/ModelRender.cpp] [Line: 404]
+[2020.07.01-15.39.33:122][151]LogOutputDevice: Error: Invalid Node Index, Idx:710, Num:1114
+[2020.07.01-15.39.33:122][151]LogOutputDevice: Error: Stack: 
+[2020.07.01-15.39.33:122][151]LogOutputDevice: Error: [Callstack] 0x00007fff65d94f9a UE4Editor-Engine.dll!UnknownFunction []
+[2020.07.01-15.39.33:122][151]LogOutputDevice: Error: [Callstack] 0x00007fff64f04baf UE4Editor-Engine.dll!UnknownFunction []
+[2020.07.01-15.39.33:122][151]LogOutputDevice: Error: [Callstack] 0x00007fff6f8b8fea UE4Editor-Renderer.dll!UnknownFunction []
+[2020.07.01-15.39.33:122][151]LogOutputDevice: Error: [Callstack] 0x00007fff6f8b8692 UE4Editor-Renderer.dll!UnknownFunction []
+[2020.07.01-15.39.33:122][151]LogOutputDevice: Error: [Callstack] 0x00007fff6f8b94fa UE4Editor-Renderer.dll!UnknownFunction []
+[2020.07.01-15.39.33:122][151]LogOutputDevice: Error: [Callstack] 0x00007fff6f8c255f UE4Editor-Renderer.dll!UnknownFunction []
+[2020.07.01-15.39.33:122][151]LogOutputDevice: Error: [Callstack] 0x00007fff6f83115b UE4Editor-Renderer.dll!UnknownFunction []
+[2020.07.01-15.39.33:122][151]LogOutputDevice: Error: [Callstack] 0x00007fff6f83063d UE4Editor-Renderer.dll!UnknownFunction []
+[2020.07.01-15.39.33:122][151]LogOutputDevice: Error: [Callstack] 0x00007fff6f296054 UE4Editor-Renderer.dll!UnknownFunction []
+[2020.07.01-15.39.33:122][151]LogOutputDevice: Error: [Callstack] 0x00007fff6f8485f1 UE4Editor-Renderer.dll!UnknownFunction []
+[2020.07.01-15.39.33:123][151]LogOutputDevice: Error: [Callstack] 0x00007fff6f8229f8 UE4Editor-Renderer.dll!UnknownFunction []
+[2020.07.01-15.39.33:123][151]LogOutputDevice: Error: [Callstack] 0x00007fff6f82615d UE4Editor-Renderer.dll!UnknownFunction []
+[2020.07.01-15.39.33:123][151]LogOutputDevice: Error: [Callstack] 0x00007fff671688d8 UE4Editor-Core.dll!UnknownFunction []
+[2020.07.01-15.39.33:123][151]LogOutputDevice: Error: [Callstack] 0x00007fff67168ba3 UE4Editor-Core.dll!UnknownFunction []
+[2020.07.01-15.39.33:123][151]LogOutputDevice: Error: [Callstack] 0x00007fffa387f7f2 UE4Editor-RenderCore.dll!UnknownFunction []
+[2020.07.01-15.39.33:123][151]LogOutputDevice: Error: [Callstack] 0x00007fffa3885334 UE4Editor-RenderCore.dll!UnknownFunction []
+[2020.07.01-15.39.33:123][151]LogOutputDevice: Error: [Callstack] 0x00007fff6765239b UE4Editor-Core.dll!UnknownFunction []
+[2020.07.01-15.39.33:123][151]LogOutputDevice: Error: [Callstack] 0x00007fff67649d90 UE4Editor-Core.dll!UnknownFunction []
+[2020.07.01-15.39.33:123][151]LogOutputDevice: Error: [Callstack] 0x00007fffd4727bd4 KERNEL32.DLL!UnknownFunction []
+[2020.07.01-15.39.33:123][151]LogOutputDevice: Error: [Callstack] 0x00007fffd664ce51 ntdll.dll!UnknownFunction []
+[2020.07.01-15.39.33:123][151]LogOutputDevice: Error: 
+[2020.07.01-15.39.33:123][151]LogStats:                SubmitErrorReport -  0.000 s
+[2020.07.01-15.39.51:233][151]LogStats:                    SendNewReport - 18.111 s
+[2020.07.01-15.39.51:233][151]LogStats:             FDebug::EnsureFailed - 24.160 s
+[2020.07.01-15.39.51:513][151]Cmd: TRANSACTION UNDO
+[2020.07.01-15.39.51:513][151]LogEditorTransaction: Undo Delete Actors
+[2020.07.01-15.39.51:811][151]Cmd: SELECT NONE
+[2020.07.01-15.39.51:817][151]Cmd: SELECT NONE
+[2020.07.01-15.39.51:817][151]Cmd: SELECT NONE
+[2020.07.01-15.39.51:818][151]Cmd: SELECT NONE
+[2020.07.01-15.39.51:818][151]Cmd: SELECT NONE
+[2020.07.01-15.39.51:819][151]Cmd: SELECT NONE
+[2020.07.01-15.39.53:403][229]Cmd: SELECT NONE
+[2020.07.01-15.39.56:765][385]LogUObjectHash: Compacting FUObjectHashTables data took   6.40ms
+[2020.07.01-15.39.57:145][385]LogSavePackage: Moving '../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Saved/Pinball_Mudassir0C2D8C474F7DF29E34F386B1DB429B75.tmp' to '../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Content/Pinball_Mudassir.umap'
+[2020.07.01-15.39.57:219][385]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pinball_Mudassir_BuiltData" FILE="../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Content/Pinball_Mudassir_BuiltData.uasset" SILENT=true
+[2020.07.01-15.39.57:334][385]LogSavePackage: Moving '../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Saved/Pinball_Mudassir_BuiltData2316251149055A9986DC58808EC7C1CE.tmp' to '../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Content/Pinball_Mudassir_BuiltData.uasset'
+[2020.07.01-15.39.57:368][385]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.01-15.39.57:368][385]LogContentValidation: Display: Validating World /Game/Pinball_Mudassir.Pinball_Mudassir
+[2020.07.01-15.39.57:368][385]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Pinball_Mudassir_BuiltData.Pinball_Mudassir_BuiltData
+[2020.07.01-15.40.00:756][544]LogEditorViewport: Clicking on Actor (LMB): BP_RampNoPlastic_C (BP_RampNoPlastic)
+[2020.07.01-15.40.01:531][570]Cmd: DELETE
+[2020.07.01-15.40.01:531][570]Cmd: ACTOR DELETE
+[2020.07.01-15.40.01:549][570]LogEditorActor: Deleted Actor: BP_RampNoPlastic_C
+[2020.07.01-15.40.01:595][570]LogUObjectHash: Compacting FUObjectHashTables data took   4.86ms
+[2020.07.01-15.40.01:599][570]LogEditorActor: Deleted 1 Actors (0.067 secs)
+[2020.07.01-15.40.04:863][716]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.07.01-15.40.05:016][716]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.01-15.40.05:030][716]PIE: New page: PIE session: Pinball_Mudassir (Jul 2, 2020, 2:40:05 AM)
+[2020.07.01-15.40.05:030][716]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Pinball_Mudassir
+[2020.07.01-15.40.05:234][716]LogPlayLevel: PIE: StaticDuplicateObject took: (0.203972s)
+[2020.07.01-15.40.05:249][716]LogAIModule: Creating AISystem for world Pinball_Mudassir
+[2020.07.01-15.40.05:256][716]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F8D02FE600), frame # 216716
+[2020.07.01-15.40.05:261][716]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F8D2656340), frame # 216716
+[2020.07.01-15.40.05:262][716]LogPlayLevel: PIE: World Init took: (0.028267s)
+[2020.07.01-15.40.05:262][716]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Pinball_Mudassir.Pinball_Mudassir to /Game/UEDPIE_0_Pinball_Mudassir.Pinball_Mudassir (0.232862s)
+[2020.07.01-15.40.05:308][716]LogUObjectHash: Compacting FUObjectHashTables data took   6.49ms
+[2020.07.01-15.40.05:345][716]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.01-15.40.05:345][716]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.01-15.40.05:346][716]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.01-15.40.05:346][716]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.01-15.40.05:346][716]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.01-15.40.05:346][716]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.01-15.40.05:346][716]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.01-15.40.05:346][716]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.01-15.40.05:347][716]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.01-15.40.05:347][716]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.01-15.40.05:410][716]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.01-15.40.05:410][716]LogAudioMixer: Display: 1: FrontRight
+[2020.07.01-15.40.05:723][716]LogAudioMixer: Display: Using Audio Device Speakers (2- Realtek High Definition Audio)
+[2020.07.01-15.40.05:724][716]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.01-15.40.05:724][716]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.01-15.40.05:724][716]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.01-15.40.05:726][716]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.01-15.40.05:784][716]LogInit: FAudioDevice initialized.
+[2020.07.01-15.40.05:914][716]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.01-15.40.05:915][716]LogLoad: Game class is 'PinballGameMode_C'
+[2020.07.01-15.40.06:060][716]LogWorld: Bringing World /Game/UEDPIE_0_Pinball_Mudassir.Pinball_Mudassir up for play (max tick rate 60) at 2020.07.01-21.10.06
+[2020.07.01-15.40.06:077][716]LogWorld: Bringing up level for play took: 0.052974
+[2020.07.01-15.40.06:079][716]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2020.07.01-15.40.06:165][716]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.01-15.40.08:119][716]PIE: Server logged in
+[2020.07.01-15.40.08:122][716]PIE: Play in editor total start time 3.212 seconds.
+[2020.07.01-15.40.10:798][790]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.07.01-15.40.50:025][654]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.01-15.40.50:027][654]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.07.01-15.40.50:047][654]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.07.01-15.40.50:072][654]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.01-15.40.50:072][654]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Pinball_Mudassir
+[2020.07.01-15.40.50:073][654]LogSlate: Window 'Pinball Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.07.01-15.40.50:093][654]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.01-15.40.50:102][654]LogWorld: UWorld::CleanupWorld for Pinball_Mudassir, bSessionEnded=true, bCleanupResources=true
+[2020.07.01-15.40.50:104][654]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.01-15.40.50:167][654]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.01-15.40.50:176][654]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.01-15.40.50:225][654]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.01-15.40.50:270][654]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F8D2656340), frame # 218654
+[2020.07.01-15.40.50:270][654]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F8D02FE600), frame # 218654
+[2020.07.01-15.40.50:274][654]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2020.07.01-15.40.50:335][655]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2020.07.01-15.41.01:682][144]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/Blueprints/BP_RampNoPlastic.BP_RampNoPlastic
+[2020.07.01-15.44.29:717][377]BlueprintLog: New page: Compile BP_RampNoPlastic
+[2020.07.01-15.44.29:726][377]LogBlueprint: Error: [Compiler BP_RampNoPlastic] This blueprint (self) is not a SplineMeshComponent, therefore ' Target ' must have a connection.
+[2020.07.01-15.44.29:807][377]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2020.07.01-15.44.38:519][790]BlueprintLog: New page: Compile BP_RampNoPlastic
+[2020.07.01-15.44.38:594][790]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2020.07.01-15.44.39:907][835]LogSavePackage: Moving '../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Saved/BP_RampNoPlastic1207E184423C04E882C971BA99B58B6D.tmp' to '../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Content/Assets/Blueprints/BP_RampNoPlastic.uasset'
+[2020.07.01-15.44.39:944][835]AssetCheck: New page: Asset Save: BP_RampNoPlastic
+[2020.07.01-15.44.39:944][835]LogContentValidation: Display: Validating Blueprint /Game/Assets/Blueprints/BP_RampNoPlastic.BP_RampNoPlastic
+[2020.07.01-15.45.06:579][884]BlueprintLog: New page: Compile BP_RampNoPlastic
+[2020.07.01-15.45.06:654][884]LogUObjectHash: Compacting FUObjectHashTables data took   5.01ms
+[2020.07.01-15.46.49:939][678]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/Blueprints/BP_Ramp.BP_Ramp
+[2020.07.01-15.48.27:425][  8]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.07.01-15.53.22:561][914]BlueprintLog: New page: Compile BP_RampNoPlastic
+[2020.07.01-15.53.23:137][914]LogUObjectHash: Compacting FUObjectHashTables data took   5.64ms
+[2020.07.01-15.53.26:232][936]LogSavePackage: Moving '../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Saved/BP_RampNoPlastic92A804904C997CD0FD6340B110403868.tmp' to '../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Content/Assets/Blueprints/BP_RampNoPlastic.uasset'
+[2020.07.01-15.53.26:233][936]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Saved/BP_RampNoPlastic92A804904C997CD0FD6340B110403868.tmp' to '../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Content/Assets/Blueprints/BP_RampNoPlastic.uasset' (Error Code 32), retrying in .5s...
+[2020.07.01-15.53.26:735][936]LogFileManager: Warning: MoveFile recovered during retry!
+[2020.07.01-15.53.27:896][936]AssetCheck: New page: Asset Save: BP_RampNoPlastic
+[2020.07.01-15.53.27:896][936]LogContentValidation: Display: Validating Blueprint /Game/Assets/Blueprints/BP_RampNoPlastic.BP_RampNoPlastic
+[2020.07.01-15.53.49:907][850]BlueprintLog: New page: Compile BP_RampNoPlastic
+[2020.07.01-15.53.50:173][850]LogUObjectHash: Compacting FUObjectHashTables data took   6.01ms
+[2020.07.01-15.53.51:348][885]LogSavePackage: Moving '../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Saved/BP_RampNoPlasticD41BE3D94D899BF1177AFC9EFB888798.tmp' to '../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Content/Assets/Blueprints/BP_RampNoPlastic.uasset'
+[2020.07.01-15.53.51:388][885]AssetCheck: New page: Asset Save: BP_RampNoPlastic
+[2020.07.01-15.53.51:389][885]LogContentValidation: Display: Validating Blueprint /Game/Assets/Blueprints/BP_RampNoPlastic.BP_RampNoPlastic
+[2020.07.01-15.54.30:124][205]BlueprintLog: New page: Compile BP_RampNoPlastic
+[2020.07.01-15.54.30:213][205]LogUObjectHash: Compacting FUObjectHashTables data took   4.80ms
+[2020.07.01-15.54.31:399][243]LogSavePackage: Moving '../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Saved/BP_RampNoPlastic79F57CEB42E09A54C7EE6A9A5D93AFA2.tmp' to '../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Content/Assets/Blueprints/BP_RampNoPlastic.uasset'
+[2020.07.01-15.54.31:445][243]AssetCheck: New page: Asset Save: BP_RampNoPlastic
+[2020.07.01-15.54.31:445][243]LogContentValidation: Display: Validating Blueprint /Game/Assets/Blueprints/BP_RampNoPlastic.BP_RampNoPlastic
+[2020.07.01-15.55.04:407][868]BlueprintLog: New page: Compile BP_RampNoPlastic
+[2020.07.01-15.55.04:659][868]LogUObjectHash: Compacting FUObjectHashTables data took   7.68ms
+[2020.07.01-15.55.05:580][890]LogSavePackage: Moving '../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Saved/BP_RampNoPlastic3719154D455F368D29452A8BF26A1DFE.tmp' to '../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Content/Assets/Blueprints/BP_RampNoPlastic.uasset'
+[2020.07.01-15.55.05:618][890]AssetCheck: New page: Asset Save: BP_RampNoPlastic
+[2020.07.01-15.55.05:618][890]LogContentValidation: Display: Validating Blueprint /Game/Assets/Blueprints/BP_RampNoPlastic.BP_RampNoPlastic
+[2020.07.01-15.55.15:981][329]BlueprintLog: New page: Compile BP_RampNoPlastic
+[2020.07.01-15.55.16:094][329]LogUObjectHash: Compacting FUObjectHashTables data took   5.74ms
+[2020.07.01-15.55.16:823][348]LogSavePackage: Moving '../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Saved/BP_RampNoPlasticA54A0EAB44B18823E31F97A7AB579AE1.tmp' to '../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Content/Assets/Blueprints/BP_RampNoPlastic.uasset'
+[2020.07.01-15.55.16:825][348]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Saved/BP_RampNoPlasticA54A0EAB44B18823E31F97A7AB579AE1.tmp' to '../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Content/Assets/Blueprints/BP_RampNoPlastic.uasset' (Error Code 32), retrying in .5s...
+[2020.07.01-15.55.17:327][348]LogFileManager: Warning: MoveFile recovered during retry!
+[2020.07.01-15.55.17:405][348]AssetCheck: New page: Asset Save: BP_RampNoPlastic
+[2020.07.01-15.55.17:405][348]LogContentValidation: Display: Validating Blueprint /Game/Assets/Blueprints/BP_RampNoPlastic.BP_RampNoPlastic
+[2020.07.01-15.55.17:677][356]LogSlate: Window 'BP_Ramp' being destroyed
+[2020.07.01-15.55.17:691][356]LogSlate: Window 'BP_Ramp' being destroyed
+[2020.07.01-15.55.17:857][356]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2020.07.01-15.55.17:870][356]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.01-15.55.18:454][356]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.07.01-15.55.18:454][356]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2020.07.01-15.55.18:454][356]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.01-15.55.21:069][389]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_PlasticRamp)
+[2020.07.01-15.55.23:453][436]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_PlasticRamp)
+[2020.07.01-15.55.25:506][505]Cmd: DELETE
+[2020.07.01-15.55.25:506][505]Cmd: ACTOR DELETE
+[2020.07.01-15.55.26:217][505]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.07.01-15.55.26:550][505]LogUObjectHash: Compacting FUObjectHashTables data took   6.79ms
+[2020.07.01-15.55.26:553][505]LogEditorActor: Deleted 1 Actors (0.435 secs)
+[2020.07.01-15.55.46:353][229]Cmd: TRANSACTION UNDO
+[2020.07.01-15.55.46:353][229]LogEditorTransaction: Undo Move Actors
+[2020.07.01-15.56.06:775][262]LogDerivedDataCache: C:/Users/Lenovo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision, attempt at redundant update, OK C:/Users/Lenovo/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/0/1/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_38AA9BDB462A4EB9A22795A3EF66781__31836B08098F0E9A570637FF07643AF1270FCA59.udd.
+[2020.07.01-15.56.12:444][449]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/Blueprints/BP_RampNoPlastic.BP_RampNoPlastic
+[2020.07.01-15.56.29:402][960]LogDerivedDataCache: C:/Users/Lenovo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision, attempt at redundant update, OK C:/Users/Lenovo/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/6/9/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_38AA9BDB462A4EB9A22795A3EF66781__681DBC29DD08544639A74D54CEA8D76FD2D71F5C.udd.
+[2020.07.01-15.56.47:298][705]BlueprintLog: New page: Compile BP_RampNoPlastic
+[2020.07.01-15.56.47:786][705]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2020.07.01-15.56.49:011][736]LogSavePackage: Moving '../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Saved/BP_RampNoPlastic81F0B59147A1FA869E403ABD82467E17.tmp' to '../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Content/Assets/Blueprints/BP_RampNoPlastic.uasset'
+[2020.07.01-15.56.49:058][736]AssetCheck: New page: Asset Save: BP_RampNoPlastic
+[2020.07.01-15.56.49:058][736]LogContentValidation: Display: Validating Blueprint /Game/Assets/Blueprints/BP_RampNoPlastic.BP_RampNoPlastic
+[2020.07.01-15.56.58:736][ 96]LogDerivedDataCache: C:/Users/Lenovo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision, attempt at redundant update, OK C:/Users/Lenovo/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/0/8/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_38AA9BDB462A4EB9A22795A3EF66781__97F063DF0BA2301A7AE37173740030D86BD41359.udd.
+[2020.07.01-15.57.01:140][130]LogDerivedDataCache: C:/Users/Lenovo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision, attempt at redundant update, OK C:/Users/Lenovo/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/3/8/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_38AA9BDB462A4EB9A22795A3EF66781__9FE9943B761798A1AFF0DF7FD6E09EADE39E457E.udd.
+[2020.07.01-15.57.59:531][301]BlueprintLog: New page: Compile BP_RampNoPlastic
+[2020.07.01-15.57.59:792][301]LogUObjectHash: Compacting FUObjectHashTables data took   4.99ms
+[2020.07.01-15.58.00:555][319]LogSavePackage: Moving '../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Saved/BP_RampNoPlastic932B233E428521855F14E4BA524F4AA6.tmp' to '../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Content/Assets/Blueprints/BP_RampNoPlastic.uasset'
+[2020.07.01-15.58.00:596][319]AssetCheck: New page: Asset Save: BP_RampNoPlastic
+[2020.07.01-15.58.00:596][319]LogContentValidation: Display: Validating Blueprint /Game/Assets/Blueprints/BP_RampNoPlastic.BP_RampNoPlastic
+[2020.07.01-15.58.01:524][361]LogSlate: Window 'BP_RampNoPlastic' being destroyed
+[2020.07.01-15.58.01:535][361]LogSlate: Window 'BP_RampNoPlastic' being destroyed
+[2020.07.01-15.58.01:578][361]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2020.07.01-15.58.01:578][361]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.01-15.58.08:049][681]LogEditorViewport: Clicking on Actor (LMB): BP_RampNoPlastic_C (BP_RampNoPlastic)
+[2020.07.01-15.58.16:950][149]LogEditorViewport: Clicking on Actor (LMB): BP_RampNoPlastic_C (BP_RampNoPlastic)
+[2020.07.01-15.58.25:433][453]LogDerivedDataCache: C:/Users/Lenovo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision, attempt at redundant update, OK C:/Users/Lenovo/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/4/2/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_38AA9BDB462A4EB9A22795A3EF66781__5BF97818B2125644BD654ACFB2E7BA807556BB3E.udd.
+[2020.07.01-15.59.05:749][287]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/Blueprints/BP_RampNoPlastic.BP_RampNoPlastic
+[2020.07.01-15.59.34:135][583]BlueprintLog: New page: Compile BP_RampNoPlastic
+[2020.07.01-15.59.34:706][583]LogUObjectHash: Compacting FUObjectHashTables data took   5.28ms
+[2020.07.01-15.59.35:490][605]LogSavePackage: Moving '../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Saved/BP_RampNoPlasticDF1F5B2F46399DBE8CFD308BF8135DE0.tmp' to '../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Content/Assets/Blueprints/BP_RampNoPlastic.uasset'
+[2020.07.01-15.59.35:530][605]AssetCheck: New page: Asset Save: BP_RampNoPlastic
+[2020.07.01-15.59.35:530][605]LogContentValidation: Display: Validating Blueprint /Game/Assets/Blueprints/BP_RampNoPlastic.BP_RampNoPlastic
+[2020.07.01-15.59.52:684][326]BlueprintLog: New page: Compile BP_RampNoPlastic
+[2020.07.01-15.59.52:841][326]LogUObjectHash: Compacting FUObjectHashTables data took   8.35ms
+[2020.07.01-15.59.53:754][349]LogSavePackage: Moving '../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Saved/BP_RampNoPlasticD96F91964962A8BB41C41DB167E80BE2.tmp' to '../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Content/Assets/Blueprints/BP_RampNoPlastic.uasset'
+[2020.07.01-15.59.53:793][349]AssetCheck: New page: Asset Save: BP_RampNoPlastic
+[2020.07.01-15.59.53:793][349]LogContentValidation: Display: Validating Blueprint /Game/Assets/Blueprints/BP_RampNoPlastic.BP_RampNoPlastic
+[2020.07.01-16.00.30:009][675]BlueprintLog: New page: Compile BP_RampNoPlastic
+[2020.07.01-16.00.30:306][675]LogUObjectHash: Compacting FUObjectHashTables data took   5.02ms
+[2020.07.01-16.00.31:129][697]LogSavePackage: Moving '../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Saved/BP_RampNoPlastic923529C04211D0DD8D0B228B096753B0.tmp' to '../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Content/Assets/Blueprints/BP_RampNoPlastic.uasset'
+[2020.07.01-16.00.31:166][697]AssetCheck: New page: Asset Save: BP_RampNoPlastic
+[2020.07.01-16.00.31:166][697]LogContentValidation: Display: Validating Blueprint /Game/Assets/Blueprints/BP_RampNoPlastic.BP_RampNoPlastic
+[2020.07.01-16.00.36:066][893]BlueprintLog: New page: Compile BP_RampNoPlastic
+[2020.07.01-16.00.36:183][893]LogUObjectHash: Compacting FUObjectHashTables data took   4.88ms
+[2020.07.01-16.00.42:280][171]BlueprintLog: New page: Compile BP_RampNoPlastic
+[2020.07.01-16.00.42:404][171]LogUObjectHash: Compacting FUObjectHashTables data took   5.00ms
+[2020.07.01-16.00.44:725][237]LogSavePackage: Moving '../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Saved/BP_RampNoPlastic20452AFD4C4B5C9470F69A827CD9AADF.tmp' to '../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Content/Assets/Blueprints/BP_RampNoPlastic.uasset'
+[2020.07.01-16.00.44:762][237]AssetCheck: New page: Asset Save: BP_RampNoPlastic
+[2020.07.01-16.00.44:762][237]LogContentValidation: Display: Validating Blueprint /Game/Assets/Blueprints/BP_RampNoPlastic.BP_RampNoPlastic
+[2020.07.01-16.00.53:145][649]BlueprintLog: New page: Compile BP_RampNoPlastic
+[2020.07.01-16.00.53:254][649]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2020.07.01-16.00.54:062][670]LogSavePackage: Moving '../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Saved/BP_RampNoPlasticD45A22F84F7FBBEC83DE09A37C0CF7A9.tmp' to '../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Content/Assets/Blueprints/BP_RampNoPlastic.uasset'
+[2020.07.01-16.00.54:100][670]AssetCheck: New page: Asset Save: BP_RampNoPlastic
+[2020.07.01-16.00.54:100][670]LogContentValidation: Display: Validating Blueprint /Game/Assets/Blueprints/BP_RampNoPlastic.BP_RampNoPlastic
+[2020.07.01-16.01.01:651][988]LogEditorTransaction: Undo Move Node
+[2020.07.01-16.01.02:179][996]LogEditorTransaction: Undo Break Pin Links
+[2020.07.01-16.01.02:716][ 11]LogEditorTransaction: Undo Create Pin Link
+[2020.07.01-16.01.03:153][ 24]LogEditorTransaction: Undo Modify Component(s)
+[2020.07.01-16.01.04:148][ 60]LogEditorTransaction: Undo Change Number Pin Value
+[2020.07.01-16.01.04:499][ 72]LogEditorTransaction: Undo Change Number Pin Value
+[2020.07.01-16.01.04:741][ 80]LogEditorTransaction: Undo Create Pin Link
+[2020.07.01-16.01.04:961][ 86]LogEditorTransaction: Undo Break Pin Links
+[2020.07.01-16.01.05:114][ 89]LogEditorTransaction: Undo Move Node
+[2020.07.01-16.01.05:315][ 95]LogEditorTransaction: Undo Move Actors
+[2020.07.01-16.01.05:495][100]LogEditorTransaction: Undo Move Actors
+[2020.07.01-16.01.05:704][108]LogEditorTransaction: Undo Move Actors
+[2020.07.01-16.01.05:868][114]LogEditorTransaction: Undo Move Actors
+[2020.07.01-16.01.06:830][152]LogEditorTransaction: Undo Clicking on Actors
+[2020.07.01-16.01.07:935][153]LogEditorTransaction: Undo Select Brush Surface
+[2020.07.01-16.01.07:960][153]LogEditorTransaction: Undo Move Actors
+[2020.07.01-16.01.07:990][153]LogEditorTransaction: Undo Move Actors
+[2020.07.01-16.01.08:005][153]LogEditorTransaction: Undo Clicking on Actors
+[2020.07.01-16.01.15:646][445]LogEditorTransaction: Undo Select Brush Surface
+[2020.07.01-16.01.15:768][445]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.084 s
+[2020.07.01-16.01.15:768][445]LogOutputDevice: Error: === Handled ensure: ===
+[2020.07.01-16.01.15:768][445]LogOutputDevice: Error: 
+[2020.07.01-16.01.15:768][445]LogOutputDevice: Error: Ensure condition failed: Model->Surfs.IsValidIndex(Node.iSurf) [File:D:/Build/++UE4+Licensee/Sync/Engine/Source/Runtime/Engine/Private/ModelRender.cpp] [Line: 649]
+[2020.07.01-16.01.15:768][445]LogOutputDevice: Error: Invalid Surf Index, Idx:146, Num:293
+[2020.07.01-16.01.15:768][445]LogOutputDevice: Error: Stack: 
+[2020.07.01-16.01.15:768][445]LogOutputDevice: Error: [Callstack] 0x00007fff65d956e9 UE4Editor-Engine.dll!UnknownFunction []
+[2020.07.01-16.01.15:768][445]LogOutputDevice: Error: [Callstack] 0x00007fff64f0f6d5 UE4Editor-Engine.dll!UnknownFunction []
+[2020.07.01-16.01.15:768][445]LogOutputDevice: Error: [Callstack] 0x00007fff64f0bf70 UE4Editor-Engine.dll!UnknownFunction []
+[2020.07.01-16.01.15:768][445]LogOutputDevice: Error: [Callstack] 0x00007fff6f893c22 UE4Editor-Renderer.dll!UnknownFunction []
+[2020.07.01-16.01.15:769][445]LogOutputDevice: Error: [Callstack] 0x00007fff6f8d9b3e UE4Editor-Renderer.dll!UnknownFunction []
+[2020.07.01-16.01.15:769][445]LogOutputDevice: Error: [Callstack] 0x00007fff6f8bac9b UE4Editor-Renderer.dll!UnknownFunction []
+[2020.07.01-16.01.15:769][445]LogOutputDevice: Error: [Callstack] 0x00007fff6f8c253b UE4Editor-Renderer.dll!UnknownFunction []
+[2020.07.01-16.01.15:769][445]LogOutputDevice: Error: [Callstack] 0x00007fff6f83115b UE4Editor-Renderer.dll!UnknownFunction []
+[2020.07.01-16.01.15:769][445]LogOutputDevice: Error: [Callstack] 0x00007fff6f83063d UE4Editor-Renderer.dll!UnknownFunction []
+[2020.07.01-16.01.15:769][445]LogOutputDevice: Error: [Callstack] 0x00007fff6f296054 UE4Editor-Renderer.dll!UnknownFunction []
+[2020.07.01-16.01.15:769][445]LogOutputDevice: Error: [Callstack] 0x00007fff6f8485f1 UE4Editor-Renderer.dll!UnknownFunction []
+[2020.07.01-16.01.15:769][445]LogOutputDevice: Error: [Callstack] 0x00007fff6f8229f8 UE4Editor-Renderer.dll!UnknownFunction []
+[2020.07.01-16.01.15:769][445]LogOutputDevice: Error: [Callstack] 0x00007fff6f82615d UE4Editor-Renderer.dll!UnknownFunction []
+[2020.07.01-16.01.15:769][445]LogOutputDevice: Error: [Callstack] 0x00007fff671688d8 UE4Editor-Core.dll!UnknownFunction []
+[2020.07.01-16.01.15:769][445]LogOutputDevice: Error: [Callstack] 0x00007fff67168ba3 UE4Editor-Core.dll!UnknownFunction []
+[2020.07.01-16.01.15:770][445]LogOutputDevice: Error: [Callstack] 0x00007fffa387f7f2 UE4Editor-RenderCore.dll!UnknownFunction []
+[2020.07.01-16.01.15:770][445]LogOutputDevice: Error: [Callstack] 0x00007fffa3885334 UE4Editor-RenderCore.dll!UnknownFunction []
+[2020.07.01-16.01.15:770][445]LogOutputDevice: Error: [Callstack] 0x00007fff6765239b UE4Editor-Core.dll!UnknownFunction []
+[2020.07.01-16.01.15:770][445]LogOutputDevice: Error: [Callstack] 0x00007fff67649d90 UE4Editor-Core.dll!UnknownFunction []
+[2020.07.01-16.01.15:770][445]LogOutputDevice: Error: [Callstack] 0x00007fffd4727bd4 KERNEL32.DLL!UnknownFunction []
+[2020.07.01-16.01.15:770][445]LogOutputDevice: Error: [Callstack] 0x00007fffd664ce51 ntdll.dll!UnknownFunction []
+[2020.07.01-16.01.15:770][445]LogOutputDevice: Error: 
+[2020.07.01-16.01.15:770][445]LogStats:                SubmitErrorReport -  0.000 s

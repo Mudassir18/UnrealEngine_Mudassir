@@ -1,9 +1,17 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 ﻿Log file open, 07/02/20 16:09:14
 LogInit: Display: Running engine for game: Pinball
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
 LogStats: Stats thread started at 0.806472
+=======
+﻿Log file open, 06/10/20 21:26:25
+LogInit: Display: Running engine for game: Pinball
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.374058
+>>>>>>> Stashed changes
 =======
 ﻿Log file open, 06/10/20 21:26:25
 LogInit: Display: Running engine for game: Pinball
@@ -202,6 +210,7 @@ LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 [2020.07.02-10.39.22:589][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2020.07.02-10.39.22:589][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
@@ -737,6 +746,8 @@ Script Stack (0 frames):
 [2020.07.02-10.45.21:507][703]LogCore: Engine exit requested (reason: Win RequestExit)
 [2020.07.02-10.45.21:519][703]Log file closed, 07/02/20 16:15:21
 =======
+=======
+>>>>>>> Stashed changes
 [2020.06.10-15.56.26:022][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2020.06.10-15.56.26:022][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
 [2020.06.10-15.56.26:022][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Saved/Config/Windows/Engine.ini]
@@ -2468,4 +2479,7 @@ Script Stack (0 frames):
 [2020.06.11-06.13.33:221][682]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Blueprints/BP_Ball]
 [2020.06.11-06.13.33:436][682]LogSavePackage: Moving '../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Saved/BP_Ball_Auto6DC9614F04A00CE340FC24F8A9861073E.tmp' to '../../../../../../Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Saved/Autosaves/Game/Assets/Blueprints/BP_Ball_Auto6.uasset'
 [2020.06.11-06.13.33:437][682]LogFileHelpers: Auto-saving content packages took 0.269
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes

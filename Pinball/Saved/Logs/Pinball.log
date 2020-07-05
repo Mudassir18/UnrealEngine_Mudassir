@@ -1,19 +1,11 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
 ﻿Log file open, 07/03/20 14:03:35
 LogInit: Display: Running engine for game: Pinball
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
 LogStats: Stats thread started at 0.245724
-=======
-﻿Log file open, 06/10/20 21:16:34
-LogInit: Display: Running engine for game: Pinball
-LogPlatformFile: Not using cached read wrapper
-LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.264788
->>>>>>> Stashed changes
 =======
 ﻿Log file open, 06/10/20 21:16:34
 LogInit: Display: Running engine for game: Pinball
@@ -226,7 +218,6 @@ LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
-<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -1118,8 +1109,6 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
 [2020.06.10-15.46.34:841][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2020.06.10-15.46.34:841][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
 [2020.06.10-15.46.34:841][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Lenovo/Documents/GitHub/UnrealEngine_Mudassir/Pinball/Saved/Config/Windows/Engine.ini]
@@ -1640,9 +1629,6 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.06.11-04.38.16:109][568]LogFileHelpers: Auto-saving content packages took 0.130
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
